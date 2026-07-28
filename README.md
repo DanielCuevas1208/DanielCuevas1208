@@ -40,7 +40,8 @@ You can also browse [all repositories](https://github.com/DanielCuevas1208?tab=r
 <!-- portfolio-agent:start -->
 ## Recent portfolio projects
 
-- [tiny-anomaly-lab](https://github.com/DanielCuevas1208/tiny-anomaly-lab) — An explainable anomaly-detection workbench for small time-series datasets with reproducible experiments and a browser-based report.
+- [personal-ledger-lab](https://github.com/DanielCuevas1208/personal-ledger-lab) — A local-first finance tracker that imports statement files, applies transparent categorization rules, and explains every balance and spending summary.
+- [tiny-anomaly-lab](https://github.com/DanielCuevas1208/tiny-anomaly-lab) `Python` — An explainable anomaly-detection workbench for small time-series datasets with reproducible experiments and a browser-based report.
 - [local-first-job-queue](https://github.com/DanielCuevas1208/local-first-job-queue) `Go` — A small durable background job queue demonstrating leases, retries, idempotency keys, crash recovery, and an inspectable append-only event log.
 - [web-a11y-regression-guard](https://github.com/DanielCuevas1208/web-a11y-regression-guard) `TypeScript` — A CI-oriented tool that compares accessibility scans between two builds and blocks only newly introduced, evidence-backed regressions.
 - [gtfs-accessibility-auditor](https://github.com/DanielCuevas1208/gtfs-accessibility-auditor) `TypeScript` — A production-quality TypeScript CLI that audits public-transit GTFS feeds for wheelchair-accessibility coverage, data quality, and actionable route-level gaps.

@@ -1,43 +1,35 @@
-![Daniel Cuevas. Build systems. Ship signal.](assets/profile-banner.png)
+# Hi, I'm Daniel.
 
-<p align="center">
-  <strong>SOFTWARE WITH A SPINE.</strong>
-</p>
+I like making complicated things easier to understand and use.
 
-<p align="center">
-  I build compact systems that turn messy inputs into clear, useful evidence.
-</p>
+Right now, I am building small tools around data quality, accessibility, and software maintenance.
 
-<p align="center">
-  <code>TypeScript</code>
-  <code>Data systems</code>
-  <code>Accessibility</code>
-  <code>Developer tools</code>
-</p>
+`TypeScript` · `Node.js` · `Testing` · `Data systems` · `Accessibility`
 
-## Current signal
+## A few things I have made
 
-| Project | What it proves |
-| --- | --- |
-| [GTFS Accessibility Auditor](https://github.com/DanielCuevas1208/gtfs-accessibility-auditor) | Streaming data ingestion, explainable scoring, and actionable transit reports |
-| [Web Accessibility Regression Guard](https://github.com/DanielCuevas1208/web-a11y-regression-guard) | Baseline diffing, Playwright integration, and focused CI annotations |
+### [GTFS Accessibility Auditor](https://github.com/DanielCuevas1208/gtfs-accessibility-auditor)
 
-Both projects include deterministic tests, continuous integration, sample data, and direct setup instructions.
+A TypeScript CLI that finds accessibility gaps in public-transit data.
 
-## How I build
+It reads GTFS feeds, explains each score, and produces HTML and JSON reports.
 
-- Make the problem visible.
-- Keep the core behavior testable.
-- Prefer evidence over confident output.
-- Treat accessibility as an engineering constraint.
-- Ship a complete small system before a large promise.
+### [Web Accessibility Regression Guard](https://github.com/DanielCuevas1208/web-a11y-regression-guard)
 
-## Explore the work
+A CI tool that compares accessibility scans between two builds.
 
-Visit [danielcuevas1208.github.io](https://danielcuevas1208.github.io) for project details and architecture notes.
+It reports new regressions without failing on issues that already exist.
 
-<p align="center">
-  <a href="https://danielcuevas1208.github.io">PORTFOLIO</a>
-  &nbsp;/&nbsp;
-  <a href="https://github.com/DanielCuevas1208?tab=repositories">REPOSITORIES</a>
-</p>
+## Things I care about
+
+- Clear interfaces and useful error messages
+- Tests that explain important behavior
+- Accessible software from the first version
+- Small systems that people can inspect
+- Documentation that respects the reader's time
+
+## More about the work
+
+My [portfolio site](https://danielcuevas1208.github.io) has project details, architecture notes, and links to the source.
+
+You can also browse [all repositories](https://github.com/DanielCuevas1208?tab=repositories).

@@ -36,3 +36,10 @@ It reports new regressions without failing on issues that already exist.
 My [portfolio site](https://danielcuevas1208.github.io) has project details and links to the source.
 
 You can also browse [all repositories](https://github.com/DanielCuevas1208?tab=repositories).
+
+<!-- portfolio-agent:start -->
+## Recent portfolio projects
+
+- [web-a11y-regression-guard](https://github.com/DanielCuevas1208/web-a11y-regression-guard) `TypeScript` — Compare accessibility scans and report new regressions.
+- [gtfs-accessibility-auditor](https://github.com/DanielCuevas1208/gtfs-accessibility-auditor) `TypeScript` — Find accessibility gaps in public-transit data.
+<!-- portfolio-agent:end -->

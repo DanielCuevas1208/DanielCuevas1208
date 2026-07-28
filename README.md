@@ -1,10 +1,21 @@
 # Hi, I'm Daniel.
 
-I like making complicated things easier to understand and use.
+I like learning how different kinds of systems work.
 
-Right now, I am building small tools around data quality, accessibility, and software maintenance.
+I build large projects, small tools, and experiments across many computer science domains.
 
-`TypeScript` · `Node.js` · `Testing` · `Data systems` · `Accessibility`
+`Software design` · `Robotics` · `LLM fine-tuning` · `Security` · `Graphics` · `Data science` · `Compilers`
+
+## Current interests
+
+I am currently curious about:
+
+- Agent harnesses, language models, and model evaluation
+- Robotics, embedded systems, computer vision, and simulation
+- Compilers, operating systems, databases, and distributed systems
+- Cybersecurity, privacy engineering, networks, and protocol design
+- Finance software, scientific computing, and data visualization
+- Web design, mobile apps, game development, and creative coding
 
 ## A few things I have made
 
@@ -20,16 +31,8 @@ A CI tool that compares accessibility scans between two builds.
 
 It reports new regressions without failing on issues that already exist.
 
-## Things I care about
-
-- Clear interfaces and useful error messages
-- Tests that explain important behavior
-- Accessible software from the first version
-- Small systems that people can inspect
-- Documentation that respects the reader's time
-
 ## More about the work
 
-My [portfolio site](https://danielcuevas1208.github.io) has project details, architecture notes, and links to the source.
+My [portfolio site](https://danielcuevas1208.github.io) has project details and links to the source.
 
 You can also browse [all repositories](https://github.com/DanielCuevas1208?tab=repositories).

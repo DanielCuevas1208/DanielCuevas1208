@@ -40,6 +40,7 @@ You can also browse [all repositories](https://github.com/DanielCuevas1208?tab=r
 <!-- portfolio-agent:start -->
 ## Recent portfolio projects
 
+- [signal-garden](https://github.com/DanielCuevas1208/signal-garden) **Showcase** — An interactive distributed-systems simulator that makes message delay, partitions, retries, and eventual convergence visible and reproducible.
 - [packet-forensics-lab](https://github.com/DanielCuevas1208/packet-forensics-lab) `Rust` **Showcase** — A defensive, offline network-forensics tool that explains suspicious patterns in safe packet fixtures and never performs active scanning.
 - [personal-ledger-lab](https://github.com/DanielCuevas1208/personal-ledger-lab) `C#` **Showcase** — A local-first finance tracker that imports statement files, applies transparent categorization rules, and explains every balance and spending summary.
 - [tiny-anomaly-lab](https://github.com/DanielCuevas1208/tiny-anomaly-lab) `Python` — An explainable anomaly-detection workbench for small time-series datasets with reproducible experiments and a browser-based report.

@@ -61,11 +61,11 @@ CAD review, design memory, and agent-assisted design workflows.
 <!-- portfolio-agent:start -->
 ## Recent portfolio projects
 
-- [Signal Garden](https://github.com/DanielCuevas1208/signal-garden) `Elixir` **Showcase** - Repeatable distributed-systems simulation with delay, loss, and partitions.
-- [Packet Forensics Lab](https://github.com/DanielCuevas1208/packet-forensics-lab) `Rust` **Showcase** - Safe packet-fixture analysis with explainable anomalies.
-- [Personal Ledger Lab](https://github.com/DanielCuevas1208/personal-ledger-lab) `C#` **Showcase** - Local-first finance tracking with transparent rules.
-- [Local-First Job Queue](https://github.com/DanielCuevas1208/local-first-job-queue) `Go` **Showcase** - Durable jobs with retries and crash recovery.
-- [Tiny Anomaly Lab](https://github.com/DanielCuevas1208/tiny-anomaly-lab) `Python` - Reproducible anomaly experiments.
-- [GTFS Accessibility Auditor](https://github.com/DanielCuevas1208/gtfs-accessibility-auditor) `TypeScript` - Transit accessibility reports.
-- [Web Accessibility Regression Guard](https://github.com/DanielCuevas1208/web-a11y-regression-guard) `TypeScript` - Accessibility regression reports.
+- [signal-garden](https://github.com/DanielCuevas1208/signal-garden) `Elixir` **Showcase** — An interactive distributed-systems simulator that makes message delay, partitions, retries, and eventual convergence visible and reproducible.
+- [packet-forensics-lab](https://github.com/DanielCuevas1208/packet-forensics-lab) `Rust` **Showcase** — A defensive, offline network-forensics tool that explains suspicious patterns in safe packet fixtures and never performs active scanning.
+- [personal-ledger-lab](https://github.com/DanielCuevas1208/personal-ledger-lab) `C#` **Showcase** — A local-first finance tracker that imports statement files, applies transparent categorization rules, and explains every balance and spending summary.
+- [tiny-anomaly-lab](https://github.com/DanielCuevas1208/tiny-anomaly-lab) `Python` — An explainable anomaly-detection workbench for small time-series datasets with reproducible experiments and a browser-based report.
+- [gtfs-accessibility-auditor](https://github.com/DanielCuevas1208/gtfs-accessibility-auditor) `TypeScript` — A production-quality TypeScript CLI that audits public-transit GTFS feeds for wheelchair-accessibility coverage, data quality, and actionable route-level gaps.
+- [local-first-job-queue](https://github.com/DanielCuevas1208/local-first-job-queue) `Go` **Showcase** — A small durable background job queue demonstrating leases, retries, idempotency keys, crash recovery, and an inspectable append-only event log.
+- [web-a11y-regression-guard](https://github.com/DanielCuevas1208/web-a11y-regression-guard) `TypeScript` — A CI-oriented tool that compares accessibility scans between two builds and blocks only newly introduced, evidence-backed regressions.
 <!-- portfolio-agent:end -->

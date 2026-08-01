@@ -61,6 +61,7 @@ CAD review, design memory, and agent-assisted design workflows.
 <!-- portfolio-agent:start -->
 ## Recent portfolio projects
 
+- [engineer-profile](https://github.com/DanielCuevas1208/engineer-profile) **Showcase** — A public self-maintaining engineering portfolio that turns repository activity into accurate documentation, screenshots, changelogs, metrics, and publishing drafts.
 - [shader-sketchbook](https://github.com/DanielCuevas1208/shader-sketchbook) `C++` **Showcase** — A compact graphics playground for learning shader techniques through live examples, small experiments, and visual regression captures.
 - [signal-garden](https://github.com/DanielCuevas1208/signal-garden) `Elixir` **Showcase** — An interactive distributed-systems simulator that makes message delay, partitions, retries, and eventual convergence visible and reproducible.
 - [packet-forensics-lab](https://github.com/DanielCuevas1208/packet-forensics-lab) `Rust` **Showcase** — A defensive, offline network-forensics tool that explains suspicious patterns in safe packet fixtures and never performs active scanning.
@@ -68,5 +69,4 @@ CAD review, design memory, and agent-assisted design workflows.
 - [tiny-anomaly-lab](https://github.com/DanielCuevas1208/tiny-anomaly-lab) `Python` — An explainable anomaly-detection workbench for small time-series datasets with reproducible experiments and a browser-based report.
 - [gtfs-accessibility-auditor](https://github.com/DanielCuevas1208/gtfs-accessibility-auditor) `TypeScript` — A production-quality TypeScript CLI that audits public-transit GTFS feeds for wheelchair-accessibility coverage, data quality, and actionable route-level gaps.
 - [local-first-job-queue](https://github.com/DanielCuevas1208/local-first-job-queue) `Go` **Showcase** — A small durable background job queue demonstrating leases, retries, idempotency keys, crash recovery, and an inspectable append-only event log.
-- [web-a11y-regression-guard](https://github.com/DanielCuevas1208/web-a11y-regression-guard) `TypeScript` — A CI-oriented tool that compares accessibility scans between two builds and blocks only newly introduced, evidence-backed regressions.
 <!-- portfolio-agent:end -->

@@ -74,14 +74,12 @@ CAD review, design memory, and agent-assisted design workflows.
 <!-- portfolio-agent:start -->
 ## Recent portfolio projects
 
-- [EngineerProfile](https://github.com/DanielCuevas1208/engineer-profile) `TypeScript` **Showcase** - A local portfolio builder that turns public repository evidence into a static site.
-- [Signal Garden](https://github.com/DanielCuevas1208/signal-garden) `Elixir` **Showcase** - Repeatable distributed-systems simulation with delay, loss, and partitions.
-- [Packet Forensics Lab](https://github.com/DanielCuevas1208/packet-forensics-lab) `Rust` **Showcase** - Safe packet-fixture analysis with explainable anomalies.
-- [Personal Ledger Lab](https://github.com/DanielCuevas1208/personal-ledger-lab) `C#` **Showcase** - Local-first finance tracking with transparent rules.
-- [Local-First Job Queue](https://github.com/DanielCuevas1208/local-first-job-queue) `Go` **Showcase** - Durable jobs with retries and crash recovery.
-- [Shader Sketchbook](https://github.com/DanielCuevas1208/shader-sketchbook) `C++` **Showcase** - Live signed-distance field scenes with deterministic captures.
-- [Pocket Habit Engine](https://github.com/DanielCuevas1208/pocket-habit-engine) `Dart` - Offline routine experiments with a seven-day review.
-- [Tiny Anomaly Lab](https://github.com/DanielCuevas1208/tiny-anomaly-lab) `Python` - Reproducible anomaly experiments.
-- [GTFS Accessibility Auditor](https://github.com/DanielCuevas1208/gtfs-accessibility-auditor) `TypeScript` - Transit accessibility reports.
-- [Web Accessibility Regression Guard](https://github.com/DanielCuevas1208/web-a11y-regression-guard) `TypeScript` - Accessibility regression reports.
+- [query-plan-playground](https://github.com/DanielCuevas1208/query-plan-playground) — A database learning tool that turns query plans into interactive trees and explains common scan, join, sort, and index decisions.
+- [tiny-anomaly-lab](https://github.com/DanielCuevas1208/tiny-anomaly-lab) `Python` — An explainable anomaly-detection workbench for small time-series datasets with reproducible experiments and a browser-based report.
+- [signal-garden](https://github.com/DanielCuevas1208/signal-garden) `Elixir` **Showcase** — An interactive distributed-systems simulator that makes message delay, partitions, retries, and eventual convergence visible and reproducible.
+- [shader-sketchbook](https://github.com/DanielCuevas1208/shader-sketchbook) `C++` **Showcase** — A compact graphics playground for learning shader techniques through live examples, small experiments, and visual regression captures.
+- [pocket-habit-engine](https://github.com/DanielCuevas1208/pocket-habit-engine) `Dart` — A calm offline habit experiment app that helps a user test routines without accounts, streak pressure, notifications, or remote analytics.
+- [personal-ledger-lab](https://github.com/DanielCuevas1208/personal-ledger-lab) `C#` **Showcase** — A local-first finance tracker that imports statement files, applies transparent categorization rules, and explains every balance and spending summary.
+- [packet-forensics-lab](https://github.com/DanielCuevas1208/packet-forensics-lab) `Rust` **Showcase** — A defensive, offline network-forensics tool that explains suspicious patterns in safe packet fixtures and never performs active scanning.
+- [local-first-job-queue](https://github.com/DanielCuevas1208/local-first-job-queue) `Go` **Showcase** — A small durable background job queue demonstrating leases, retries, idempotency keys, crash recovery, and an inspectable append-only event log.
 <!-- portfolio-agent:end -->

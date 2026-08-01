@@ -61,6 +61,7 @@ CAD review, design memory, and agent-assisted design workflows.
 <!-- portfolio-agent:start -->
 ## Recent portfolio projects
 
+- [pocket-habit-engine](https://github.com/DanielCuevas1208/pocket-habit-engine) — A calm offline habit experiment app that helps a user test routines without accounts, streak pressure, notifications, or remote analytics.
 - [engineer-profile](https://github.com/DanielCuevas1208/engineer-profile) `TypeScript` **Showcase** — A public self-maintaining engineering portfolio that turns repository activity into accurate documentation, screenshots, changelogs, metrics, and publishing drafts.
 - [shader-sketchbook](https://github.com/DanielCuevas1208/shader-sketchbook) `C++` **Showcase** — A compact graphics playground for learning shader techniques through live examples, small experiments, and visual regression captures.
 - [signal-garden](https://github.com/DanielCuevas1208/signal-garden) `Elixir` **Showcase** — An interactive distributed-systems simulator that makes message delay, partitions, retries, and eventual convergence visible and reproducible.
@@ -68,5 +69,4 @@ CAD review, design memory, and agent-assisted design workflows.
 - [personal-ledger-lab](https://github.com/DanielCuevas1208/personal-ledger-lab) `C#` **Showcase** — A local-first finance tracker that imports statement files, applies transparent categorization rules, and explains every balance and spending summary.
 - [tiny-anomaly-lab](https://github.com/DanielCuevas1208/tiny-anomaly-lab) `Python` — An explainable anomaly-detection workbench for small time-series datasets with reproducible experiments and a browser-based report.
 - [gtfs-accessibility-auditor](https://github.com/DanielCuevas1208/gtfs-accessibility-auditor) `TypeScript` — A production-quality TypeScript CLI that audits public-transit GTFS feeds for wheelchair-accessibility coverage, data quality, and actionable route-level gaps.
-- [local-first-job-queue](https://github.com/DanielCuevas1208/local-first-job-queue) `Go` **Showcase** — A small durable background job queue demonstrating leases, retries, idempotency keys, crash recovery, and an inspectable append-only event log.
 <!-- portfolio-agent:end -->

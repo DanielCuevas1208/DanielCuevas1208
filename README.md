@@ -74,6 +74,7 @@ CAD review, design memory, and agent-assisted design workflows.
 <!-- portfolio-agent:start -->
 ## Recent portfolio projects
 
+- [inkline-maps](https://github.com/DanielCuevas1208/inkline-maps) — An offline map renderer written in Kotlin. It parses a bundled OpenStreetMap extract and applies a plain-text style sheet. It draws roads, water, buildings, and labels to PNG and SVG images. The renderer works fully offline and does not use tile serv
 - [clausecraft](https://github.com/DanielCuevas1208/clausecraft) `OCaml` — A CDCL SAT solver written in OCaml. The solver reads standard DIMACS CNF files and applies watched literals, clause learning, and restarts. A Sudoku encoder turns puzzles into CNF as a demo. The test suite checks every reported model with an independ
 - [personal-ledger-lab](https://github.com/DanielCuevas1208/personal-ledger-lab) `C#` **Showcase** — A local-first finance tracker that imports statement files, applies transparent categorization rules, and explains every balance and spending summary.
 - [packet-forensics-lab](https://github.com/DanielCuevas1208/packet-forensics-lab) `Rust` **Showcase** — A defensive, offline network-forensics tool that explains suspicious patterns in safe packet fixtures and never performs active scanning.
@@ -81,5 +82,4 @@ CAD review, design memory, and agent-assisted design workflows.
 - [local-first-job-queue](https://github.com/DanielCuevas1208/local-first-job-queue) `Go` **Showcase** — A small durable background job queue demonstrating leases, retries, idempotency keys, crash recovery, and an inspectable append-only event log.
 - [query-plan-playground](https://github.com/DanielCuevas1208/query-plan-playground) `Java` — A database learning tool that turns query plans into interactive trees and explains common scan, join, sort, and index decisions.
 - [tiny-anomaly-lab](https://github.com/DanielCuevas1208/tiny-anomaly-lab) `Python` — An explainable anomaly-detection workbench for small time-series datasets with reproducible experiments and a browser-based report.
-- [signal-garden](https://github.com/DanielCuevas1208/signal-garden) `Elixir` **Showcase** — An interactive distributed-systems simulator that makes message delay, partitions, retries, and eventual convergence visible and reproducible.
 <!-- portfolio-agent:end -->

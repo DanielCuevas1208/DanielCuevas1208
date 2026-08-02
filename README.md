@@ -74,7 +74,7 @@ CAD review, design memory, and agent-assisted design workflows.
 <!-- portfolio-agent:start -->
 ## Recent portfolio projects
 
-- [specimen-press](https://github.com/DanielCuevas1208/specimen-press) — A font inspection toolkit written in Swift. It parses TrueType binary tables, extracts glyph outlines, and reports font metrics. It renders SVG specimen sheets that show the alphabet, sample text, and metric lines. A bundled open-license font support
+- [specimen-press](https://github.com/DanielCuevas1208/specimen-press) `Swift` — A font inspection toolkit written in Swift. It parses TrueType binary tables, extracts glyph outlines, and reports font metrics. It renders SVG specimen sheets that show the alphabet, sample text, and metric lines. A bundled open-license font support
 - [morphoscope](https://github.com/DanielCuevas1208/morphoscope) `Prolog` — A morphological analyzer written in SWI-Prolog. Rule sets describe how word forms inflect in English and Spanish. The engine runs in two directions: it analyzes a word form into a lemma with features, and it generates all forms of a lemma. The lexico
 - [inkline-maps](https://github.com/DanielCuevas1208/inkline-maps) `Kotlin` — An offline map renderer written in Kotlin. It parses a bundled OpenStreetMap extract and applies a plain-text style sheet. It draws roads, water, buildings, and labels to PNG and SVG images. The renderer works fully offline and does not use tile serv
 - [clausecraft](https://github.com/DanielCuevas1208/clausecraft) `OCaml` — A CDCL SAT solver written in OCaml. The solver reads standard DIMACS CNF files and applies watched literals, clause learning, and restarts. A Sudoku encoder turns puzzles into CNF as a demo. The test suite checks every reported model with an independ

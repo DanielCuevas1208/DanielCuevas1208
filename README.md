@@ -74,9 +74,9 @@ CAD review, design memory, and agent-assisted design workflows.
 <!-- portfolio-agent:start -->
 ## Recent portfolio projects
 
-- [agent-trace-workbench](https://github.com/DanielCuevas1208/agent-trace-workbench) **Showcase** — A local workbench for recording, replaying, comparing, and inspecting tool-using agent runs without sending trace data to a hosted service.
-- [query-plan-playground](https://github.com/DanielCuevas1208/query-plan-playground) `Java` — A database learning tool that turns query plans into interactive trees and explains common scan, join, sort, and index decisions.
+- [agent-trace-workbench](https://github.com/DanielCuevas1208/agent-trace-workbench) `Python` **Showcase** — A local workbench for recording, replaying, comparing, and inspecting tool-using agent runs without sending trace data to a hosted service.
 - [local-first-job-queue](https://github.com/DanielCuevas1208/local-first-job-queue) `Go` **Showcase** — A small durable background job queue demonstrating leases, retries, idempotency keys, crash recovery, and an inspectable append-only event log.
+- [query-plan-playground](https://github.com/DanielCuevas1208/query-plan-playground) `Java` — A database learning tool that turns query plans into interactive trees and explains common scan, join, sort, and index decisions.
 - [tiny-anomaly-lab](https://github.com/DanielCuevas1208/tiny-anomaly-lab) `Python` — An explainable anomaly-detection workbench for small time-series datasets with reproducible experiments and a browser-based report.
 - [signal-garden](https://github.com/DanielCuevas1208/signal-garden) `Elixir` **Showcase** — An interactive distributed-systems simulator that makes message delay, partitions, retries, and eventual convergence visible and reproducible.
 - [shader-sketchbook](https://github.com/DanielCuevas1208/shader-sketchbook) `C++` **Showcase** — A compact graphics playground for learning shader techniques through live examples, small experiments, and visual regression captures.

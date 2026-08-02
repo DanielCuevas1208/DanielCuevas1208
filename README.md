@@ -74,7 +74,7 @@ CAD review, design memory, and agent-assisted design workflows.
 <!-- portfolio-agent:start -->
 ## Recent portfolio projects
 
-- [clausecraft](https://github.com/DanielCuevas1208/clausecraft) — A CDCL SAT solver written in OCaml. The solver reads standard DIMACS CNF files and applies watched literals, clause learning, and restarts. A Sudoku encoder turns puzzles into CNF as a demo. The test suite checks every reported model with an independ
+- [clausecraft](https://github.com/DanielCuevas1208/clausecraft) `OCaml` — A CDCL SAT solver written in OCaml. The solver reads standard DIMACS CNF files and applies watched literals, clause learning, and restarts. A Sudoku encoder turns puzzles into CNF as a demo. The test suite checks every reported model with an independ
 - [personal-ledger-lab](https://github.com/DanielCuevas1208/personal-ledger-lab) `C#` **Showcase** — A local-first finance tracker that imports statement files, applies transparent categorization rules, and explains every balance and spending summary.
 - [packet-forensics-lab](https://github.com/DanielCuevas1208/packet-forensics-lab) `Rust` **Showcase** — A defensive, offline network-forensics tool that explains suspicious patterns in safe packet fixtures and never performs active scanning.
 - [agent-trace-workbench](https://github.com/DanielCuevas1208/agent-trace-workbench) `Python` **Showcase** — A local workbench for recording, replaying, comparing, and inspecting tool-using agent runs without sending trace data to a hosted service.

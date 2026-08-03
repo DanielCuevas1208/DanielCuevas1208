@@ -74,11 +74,11 @@ CAD review, design memory, and agent-assisted design workflows.
 <!-- portfolio-agent:start -->
 ## Recent portfolio projects
 
+- [driftlog](https://github.com/DanielCuevas1208/driftlog) `Gleam` **Showcase** — A Gleam library of conflict-free replicated data types. Two peers edit the same data offline and then merge without conflicts.
 - [dot-matrix-deck](https://github.com/DanielCuevas1208/dot-matrix-deck) `Zig` **Showcase** — A Game Boy emulator written in Zig. It emulates the SM83 CPU, the memory bus, the timers, and the pixel pipeline. A software renderer shows the screen in an SDL2 window. A headless mode runs public test ROMs so that automated tests can check the emul
 - [stonehue](https://github.com/DanielCuevas1208/stonehue) `Common Lisp` **Showcase** — A Go board game engine for small boards. It plays with Monte Carlo tree search and speaks the Go Text Protocol.
 - [cinderstore](https://github.com/DanielCuevas1208/cinderstore) `Crystal` **Showcase** — An embeddable key and value store built on a log structured merge tree. It keeps a write ahead log and merges data files in the background.
 - [dungeonwright](https://github.com/DanielCuevas1208/dungeonwright) `GDScript` **Showcase** — A playable dungeon crawler that builds a new map each run. You explore rooms, corridors, and locked areas that the generator creates.
-- [driftlog](https://github.com/DanielCuevas1208/driftlog) `Gleam` **Showcase** — A Gleam library of conflict-free replicated data types. Two peers edit the same data offline and then merge without conflicts.
 - [reed-solomon-workbench](https://github.com/DanielCuevas1208/reed-solomon-workbench) `Ada` — An Ada library that adds Reed-Solomon error correction to byte blocks. It shows how the codes recover data after damage.
 - [tumble-lab](https://github.com/DanielCuevas1208/tumble-lab) `Lua` **Showcase** — A 2D rigid-body physics engine written in Lua from first principles. The engine solves circle and polygon collisions with an impulse solver. Interactive sandbox scenes run in the LOVE framework. A deterministic headless mode runs the same engine with
 - [hm-lens](https://github.com/DanielCuevas1208/hm-lens) `Standard ML` — A Standard ML engine that infers types for a small functional language. It shows how each type is worked out.

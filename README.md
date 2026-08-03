@@ -74,6 +74,7 @@ CAD review, design memory, and agent-assisted design workflows.
 <!-- portfolio-agent:start -->
 ## Recent portfolio projects
 
+- [codon-atlas](https://github.com/DanielCuevas1208/codon-atlas) — A Nim library that reads DNA and RNA sequence files and reports composition statistics. It computes GC content, k-mer counts, and codon usage tables.
 - [specimen-press](https://github.com/DanielCuevas1208/specimen-press) `Swift` — A font inspection toolkit written in Swift. It parses TrueType binary tables, extracts glyph outlines, and reports font metrics. It renders SVG specimen sheets that show the alphabet, sample text, and metric lines. A bundled open-license font support
 - [morphoscope](https://github.com/DanielCuevas1208/morphoscope) `Prolog` — A morphological analyzer written in SWI-Prolog. Rule sets describe how word forms inflect in English and Spanish. The engine runs in two directions: it analyzes a word form into a lemma with features, and it generates all forms of a lemma. The lexico
 - [inkline-maps](https://github.com/DanielCuevas1208/inkline-maps) `Kotlin` — An offline map renderer written in Kotlin. It parses a bundled OpenStreetMap extract and applies a plain-text style sheet. It draws roads, water, buildings, and labels to PNG and SVG images. The renderer works fully offline and does not use tile serv
@@ -81,5 +82,4 @@ CAD review, design memory, and agent-assisted design workflows.
 - [personal-ledger-lab](https://github.com/DanielCuevas1208/personal-ledger-lab) `C#` **Showcase** — A local-first finance tracker that imports statement files, applies transparent categorization rules, and explains every balance and spending summary.
 - [packet-forensics-lab](https://github.com/DanielCuevas1208/packet-forensics-lab) `Rust` **Showcase** — A defensive, offline network-forensics tool that explains suspicious patterns in safe packet fixtures and never performs active scanning.
 - [agent-trace-workbench](https://github.com/DanielCuevas1208/agent-trace-workbench) `Python` **Showcase** — A local workbench for recording, replaying, comparing, and inspecting tool-using agent runs without sending trace data to a hosted service.
-- [local-first-job-queue](https://github.com/DanielCuevas1208/local-first-job-queue) `Go` **Showcase** — A small durable background job queue demonstrating leases, retries, idempotency keys, crash recovery, and an inspectable append-only event log.
 <!-- portfolio-agent:end -->

@@ -60,21 +60,6 @@ deterministic headless runner.
 A Rust tool that explains suspicious patterns in safe packet fixtures without
 active scanning.
 
-## Supporting projects
-
-- [Local-First Job Queue](https://github.com/DanielCuevas1208/local-first-job-queue)
-  demonstrates leases, retries, idempotency keys, crash recovery, and an event log.
-- [Packet Forensics Lab](https://github.com/DanielCuevas1208/packet-forensics-lab)
-  explains suspicious patterns in safe packet fixtures without active scanning.
-- [Engineering Design Assistant](https://github.com/DanielCuevas1208/engineering-design-assistant)
-  captures requirements, checks units and constraints, and creates a design brief.
-- [Clausecraft](https://github.com/DanielCuevas1208/clausecraft)
-  solves DIMACS formulas with a CDCL solver and checks each reported model.
-- [Paper Orrery](https://github.com/DanielCuevas1208/paper-orrery)
-  computes planet positions and renders an offline SVG sky chart.
-- [Pocket Habit Engine](https://github.com/DanielCuevas1208/pocket-habit-engine)
-  tests one routine at a time without accounts, streak pressure, or remote analytics.
-
 ## Currently curious about
 
 Agent harnesses, model evaluation, LLM fine-tuning, computer-use benchmarks,

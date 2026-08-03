@@ -74,7 +74,7 @@ CAD review, design memory, and agent-assisted design workflows.
 <!-- portfolio-agent:start -->
 ## Recent portfolio projects
 
-- [latch](https://github.com/DanielCuevas1208/latch) **Showcase** — An Erlang library for secure messages between two peers. It uses a ratchet scheme so each message gets a fresh key.
+- [latch](https://github.com/DanielCuevas1208/latch) `Erlang` **Showcase** — An Erlang library for secure messages between two peers. It uses a ratchet scheme so each message gets a fresh key.
 - [engineer-mcp](https://github.com/DanielCuevas1208/engineer-mcp) `TypeScript` **Showcase** — An MCP server that gives coding agents reliable mechanical-engineering calculations, references, material data, and transparent result provenance.
 - [driftlog](https://github.com/DanielCuevas1208/driftlog) `Gleam` **Showcase** — A Gleam library of conflict-free replicated data types. Two peers edit the same data offline and then merge without conflicts.
 - [dot-matrix-deck](https://github.com/DanielCuevas1208/dot-matrix-deck) `Zig` **Showcase** — A Game Boy emulator written in Zig. It emulates the SM83 CPU, the memory bus, the timers, and the pixel pipeline. A software renderer shows the screen in an SDL2 window. A headless mode runs public test ROMs so that automated tests can check the emul

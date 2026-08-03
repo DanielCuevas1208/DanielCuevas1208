@@ -74,12 +74,12 @@ CAD review, design memory, and agent-assisted design workflows.
 <!-- portfolio-agent:start -->
 ## Recent portfolio projects
 
+- [engineer-mcp](https://github.com/DanielCuevas1208/engineer-mcp) `TypeScript` **Showcase** — An MCP server that gives coding agents reliable mechanical-engineering calculations, references, material data, and transparent result provenance.
+- [sprout-lang](https://github.com/DanielCuevas1208/sprout-lang) `Go` **Showcase** — A small programming language with friendly diagnostics, a documented grammar, and an implementation that can grow from an interpreter into a bytecode virtual machine.
 - [engineering-design-assistant](https://github.com/DanielCuevas1208/engineering-design-assistant) `Dart` — A focused interface for capturing engineering requirements, checking units and constraints, and handing a structured design brief to EngineerKit tools.
 - [latch](https://github.com/DanielCuevas1208/latch) `Erlang` **Showcase** — An Erlang library for secure messages between two peers. It uses a ratchet scheme so each message gets a fresh key.
-- [engineer-mcp](https://github.com/DanielCuevas1208/engineer-mcp) `TypeScript` **Showcase** — An MCP server that gives coding agents reliable mechanical-engineering calculations, references, material data, and transparent result provenance.
 - [driftlog](https://github.com/DanielCuevas1208/driftlog) `Gleam` **Showcase** — A Gleam library of conflict-free replicated data types. Two peers edit the same data offline and then merge without conflicts.
 - [dot-matrix-deck](https://github.com/DanielCuevas1208/dot-matrix-deck) `Zig` **Showcase** — A Game Boy emulator written in Zig. It emulates the SM83 CPU, the memory bus, the timers, and the pixel pipeline. A software renderer shows the screen in an SDL2 window. A headless mode runs public test ROMs so that automated tests can check the emul
 - [stonehue](https://github.com/DanielCuevas1208/stonehue) `Common Lisp` **Showcase** — A Go board game engine for small boards. It plays with Monte Carlo tree search and speaks the Go Text Protocol.
 - [cinderstore](https://github.com/DanielCuevas1208/cinderstore) `Crystal` **Showcase** — An embeddable key and value store built on a log structured merge tree. It keeps a write ahead log and merges data files in the background.
-- [dungeonwright](https://github.com/DanielCuevas1208/dungeonwright) `GDScript` **Showcase** — A playable dungeon crawler that builds a new map each run. You explore rooms, corridors, and locked areas that the generator creates.
 <!-- portfolio-agent:end -->

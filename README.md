@@ -74,12 +74,14 @@ CAD review, design memory, and agent-assisted design workflows.
 - [All repositories](https://github.com/DanielCuevas1208?tab=repositories)
 
 <!-- portfolio-agent:start -->
-- [gatework](https://github.com/DanielCuevas1208/gatework) `Haskell` **Showcase** - An event-driven digital logic simulator written in Haskell.
-- [cinderstore](https://github.com/DanielCuevas1208/cinderstore) `Crystal` **Showcase** - An embeddable log-structured key-value store.
-- [agent-trace-workbench](https://github.com/DanielCuevas1208/agent-trace-workbench) `Python` **Showcase** - A local workbench for recording and replaying agent runs.
-- [engineer-mcp](https://github.com/DanielCuevas1208/engineer-mcp) `TypeScript` **Showcase** - Mechanical-engineering tools with transparent result provenance.
-- [sprout-lang](https://github.com/DanielCuevas1208/sprout-lang) `Go` **Showcase** - A small programming language with friendly diagnostics.
-- [engineering-design-assistant](https://github.com/DanielCuevas1208/engineering-design-assistant) `Dart` - Structured engineering requirements and constraints.
-- [latch](https://github.com/DanielCuevas1208/latch) `Erlang` **Showcase** - Secure messages between two peers with a ratchet scheme.
-- [driftlog](https://github.com/DanielCuevas1208/driftlog) `Gleam` **Showcase** - Conflict-free replicated data types for offline edits.
+## Recent portfolio projects
+
+- [dungeonwright](https://github.com/DanielCuevas1208/dungeonwright) `GDScript` **Showcase** — A playable dungeon crawler that builds a new map each run. You explore rooms, corridors, and locked areas that the generator creates.
+- [gatework](https://github.com/DanielCuevas1208/gatework) `Haskell` **Showcase** — An event-driven digital logic simulator written in Haskell. A plain-text netlist format describes gates, D flip-flops, and clocks. The simulator runs the circuit and writes standard VCD waveform files. GTKWave and other waveform viewers can open the
+- [cinderstore](https://github.com/DanielCuevas1208/cinderstore) `Crystal` **Showcase** — An embeddable key and value store built on a log structured merge tree. It keeps a write ahead log and merges data files in the background.
+- [agent-trace-workbench](https://github.com/DanielCuevas1208/agent-trace-workbench) `Python` **Showcase** — A local workbench for recording, replaying, comparing, and inspecting tool-using agent runs without sending trace data to a hosted service.
+- [engineer-mcp](https://github.com/DanielCuevas1208/engineer-mcp) `TypeScript` **Showcase** — An MCP server that gives coding agents reliable mechanical-engineering calculations, references, material data, and transparent result provenance.
+- [sprout-lang](https://github.com/DanielCuevas1208/sprout-lang) `Go` **Showcase** — A small programming language with friendly diagnostics, a documented grammar, and an implementation that can grow from an interpreter into a bytecode virtual machine.
+- [engineering-design-assistant](https://github.com/DanielCuevas1208/engineering-design-assistant) `Dart` — A focused interface for capturing engineering requirements, checking units and constraints, and handing a structured design brief to EngineerKit tools.
+- [latch](https://github.com/DanielCuevas1208/latch) `Erlang` **Showcase** — An Erlang library for secure messages between two peers. It uses a ratchet scheme so each message gets a fresh key.
 <!-- portfolio-agent:end -->

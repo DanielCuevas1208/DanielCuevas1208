@@ -74,12 +74,12 @@ CAD review, design memory, and agent-assisted design workflows.
 <!-- portfolio-agent:start -->
 ## Recent portfolio projects
 
-- [automata-lens](https://github.com/DanielCuevas1208/automata-lens) — A Racket desktop program that turns a regular expression into a finite automaton. It shows the states and animates each match step.
+- [frame-smith](https://github.com/DanielCuevas1208/frame-smith) — A GTK desktop program that applies filters to images. You can chain filters and see the result at once.
+- [automata-lens](https://github.com/DanielCuevas1208/automata-lens) `Racket` — A Racket desktop program that turns a regular expression into a finite automaton. It shows the states and animates each match step.
 - [gridmind](https://github.com/DanielCuevas1208/gridmind) `Clojure` — A Clojure library that learns to solve grid worlds. It uses tabular Q-learning and SARSA.
 - [codon-atlas](https://github.com/DanielCuevas1208/codon-atlas) `Nim` — A Nim library that reads DNA and RNA sequence files and reports composition statistics. It computes GC content, k-mer counts, and codon usage tables.
 - [pocket-habit-engine](https://github.com/DanielCuevas1208/pocket-habit-engine) `Dart` — A calm offline habit experiment app that helps a user test routines without accounts, streak pressure, notifications, or remote analytics.
 - [leaflitter](https://github.com/DanielCuevas1208/leaflitter) `C` — A C library that compresses and decompresses byte streams. It uses a match finder and Huffman coding, similar to DEFLATE.
 - [rota-forge](https://github.com/DanielCuevas1208/rota-forge) `Scala` — A staff rostering solver written in Scala. It reads staff, shifts, and rules from CSV files. It builds a schedule with simulated annealing and scores hard and soft constraints. It writes the final roster as CSV and as a printable HTML report. A bundl
 - [specimen-press](https://github.com/DanielCuevas1208/specimen-press) `Swift` — A font inspection toolkit written in Swift. It parses TrueType binary tables, extracts glyph outlines, and reports font metrics. It renders SVG specimen sheets that show the alphabet, sample text, and metric lines. A bundled open-license font support
-- [morphoscope](https://github.com/DanielCuevas1208/morphoscope) `Prolog` — A morphological analyzer written in SWI-Prolog. Rule sets describe how word forms inflect in English and Spanish. The engine runs in two directions: it analyzes a word form into a lemma with features, and it generates all forms of a lemma. The lexico
 <!-- portfolio-agent:end -->

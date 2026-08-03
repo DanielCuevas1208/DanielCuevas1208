@@ -1,13 +1,24 @@
 # Daniel Cuevas
 
-I build software to understand how systems behave and how people use them.
+I build software to understand how systems behave and make complex ideas easier
+to inspect.
 
-My projects move between data, developer tools, security, graphics, language
-design, and engineering software. I like clear interfaces, repeatable results,
-and small experiments that can grow into useful tools. EngineerProfile is the
-tool I use to keep the portfolio current from public project evidence.
+My projects move between developer tools, engineering software, systems, data,
+graphics, and language design. I like clear interfaces, repeatable results, and
+small experiments that can grow into useful tools. EngineerProfile keeps this
+portfolio current from public project evidence.
 
 ## Featured work
+
+### [EngineerMCP](https://github.com/DanielCuevas1208/engineer-mcp)
+
+An MCP server for mechanical-engineering calculations, references, material data,
+and result provenance.
+
+### [Agent Trace Workbench](https://github.com/DanielCuevas1208/agent-trace-workbench)
+
+A local Python workbench for recording, replaying, comparing, and inspecting
+tool-using agent runs without sending trace data to a hosted service.
 
 ### [EngineerProfile](https://github.com/DanielCuevas1208/engineer-profile)
 
@@ -16,42 +27,33 @@ with changelogs, project previews, privacy controls, and static publishing.
 
 ### [Signal Garden](https://github.com/DanielCuevas1208/signal-garden)
 
-An interactive Elixir and Phoenix simulator for distributed systems. It shows
-how a rumor spreads through a network when messages are delayed, lost, or split
-by a partition. Fixed seeds make each run repeatable, so a scenario can be
-replayed and compared.
+An Elixir simulator for distributed systems. It makes delay, partitions, retries,
+and eventual convergence visible and repeatable.
 
-### [Local-First Job Queue](https://github.com/DanielCuevas1208/local-first-job-queue)
+### [Dot Matrix Deck](https://github.com/DanielCuevas1208/dot-matrix-deck)
 
-A durable Go queue with leases, retries, idempotency keys, crash recovery, and
-an inspectable event log.
+A Zig Game Boy emulator with a CPU, memory bus, timers, pixel pipeline, and
+headless test mode.
 
-### [Packet Forensics Lab](https://github.com/DanielCuevas1208/packet-forensics-lab)
+### [Cinderstore](https://github.com/DanielCuevas1208/cinderstore)
 
-A Rust workbench for safe packet-fixture analysis. It explains DNS, connection,
-and timing anomalies without active scanning.
-
-### [Personal Ledger Lab](https://github.com/DanielCuevas1208/personal-ledger-lab)
-
-A local-first C# finance tracker with transparent categorisation rules and
-explainable monthly summaries.
-
-### [Shader Sketchbook](https://github.com/DanielCuevas1208/shader-sketchbook)
-
-A C++ and OpenGL playground for signed-distance field scenes, live shader
-editing, and deterministic reference renders.
+An embeddable Crystal key-value store built on a log-structured merge tree. It
+uses a write-ahead log and background data-file merges.
 
 ## Supporting projects
 
-- [GTFS Accessibility Auditor](https://github.com/DanielCuevas1208/gtfs-accessibility-auditor)
-  finds accessibility gaps in public-transit data and produces evidence-based
-  reports.
-- [Web Accessibility Regression Guard](https://github.com/DanielCuevas1208/web-a11y-regression-guard)
-  reports only the accessibility regressions introduced by a new build.
-- [Tiny Anomaly Lab](https://github.com/DanielCuevas1208/tiny-anomaly-lab)
-  turns small time-series experiments into reproducible reports.
+- [Local-First Job Queue](https://github.com/DanielCuevas1208/local-first-job-queue)
+  demonstrates leases, retries, idempotency keys, crash recovery, and an event log.
+- [Packet Forensics Lab](https://github.com/DanielCuevas1208/packet-forensics-lab)
+  explains suspicious patterns in safe packet fixtures without active scanning.
+- [Engineering Design Assistant](https://github.com/DanielCuevas1208/engineering-design-assistant)
+  captures requirements, checks units and constraints, and creates a design brief.
+- [Clausecraft](https://github.com/DanielCuevas1208/clausecraft)
+  solves DIMACS formulas with a CDCL solver and checks each reported model.
+- [Paper Orrery](https://github.com/DanielCuevas1208/paper-orrery)
+  computes planet positions and renders an offline SVG sky chart.
 - [Pocket Habit Engine](https://github.com/DanielCuevas1208/pocket-habit-engine)
-  is an offline Flutter app for testing one routine at a time.
+  tests one routine at a time without accounts, streak pressure, or remote analytics.
 
 ## Currently curious about
 
@@ -72,14 +74,12 @@ CAD review, design memory, and agent-assisted design workflows.
 - [All repositories](https://github.com/DanielCuevas1208?tab=repositories)
 
 <!-- portfolio-agent:start -->
-## Recent portfolio projects
-
-- [gatework](https://github.com/DanielCuevas1208/gatework) `Haskell` **Showcase** — An event-driven digital logic simulator written in Haskell. A plain-text netlist format describes gates, D flip-flops, and clocks. The simulator runs the circuit and writes standard VCD waveform files. GTKWave and other waveform viewers can open the
-- [cinderstore](https://github.com/DanielCuevas1208/cinderstore) `Crystal` **Showcase** — An embeddable key and value store built on a log structured merge tree. It keeps a write ahead log and merges data files in the background.
-- [agent-trace-workbench](https://github.com/DanielCuevas1208/agent-trace-workbench) `Python` **Showcase** — A local workbench for recording, replaying, comparing, and inspecting tool-using agent runs without sending trace data to a hosted service.
-- [engineer-mcp](https://github.com/DanielCuevas1208/engineer-mcp) `TypeScript` **Showcase** — An MCP server that gives coding agents reliable mechanical-engineering calculations, references, material data, and transparent result provenance.
-- [sprout-lang](https://github.com/DanielCuevas1208/sprout-lang) `Go` **Showcase** — A small programming language with friendly diagnostics, a documented grammar, and an implementation that can grow from an interpreter into a bytecode virtual machine.
-- [engineering-design-assistant](https://github.com/DanielCuevas1208/engineering-design-assistant) `Dart` — A focused interface for capturing engineering requirements, checking units and constraints, and handing a structured design brief to EngineerKit tools.
-- [latch](https://github.com/DanielCuevas1208/latch) `Erlang` **Showcase** — An Erlang library for secure messages between two peers. It uses a ratchet scheme so each message gets a fresh key.
-- [driftlog](https://github.com/DanielCuevas1208/driftlog) `Gleam` **Showcase** — A Gleam library of conflict-free replicated data types. Two peers edit the same data offline and then merge without conflicts.
+- [gatework](https://github.com/DanielCuevas1208/gatework) `Haskell` **Showcase** - An event-driven digital logic simulator written in Haskell.
+- [cinderstore](https://github.com/DanielCuevas1208/cinderstore) `Crystal` **Showcase** - An embeddable log-structured key-value store.
+- [agent-trace-workbench](https://github.com/DanielCuevas1208/agent-trace-workbench) `Python` **Showcase** - A local workbench for recording and replaying agent runs.
+- [engineer-mcp](https://github.com/DanielCuevas1208/engineer-mcp) `TypeScript` **Showcase** - Mechanical-engineering tools with transparent result provenance.
+- [sprout-lang](https://github.com/DanielCuevas1208/sprout-lang) `Go` **Showcase** - A small programming language with friendly diagnostics.
+- [engineering-design-assistant](https://github.com/DanielCuevas1208/engineering-design-assistant) `Dart` - Structured engineering requirements and constraints.
+- [latch](https://github.com/DanielCuevas1208/latch) `Erlang` **Showcase** - Secure messages between two peers with a ratchet scheme.
+- [driftlog](https://github.com/DanielCuevas1208/driftlog) `Gleam` **Showcase** - Conflict-free replicated data types for offline edits.
 <!-- portfolio-agent:end -->

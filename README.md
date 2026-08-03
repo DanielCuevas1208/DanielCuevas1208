@@ -74,6 +74,7 @@ CAD review, design memory, and agent-assisted design workflows.
 <!-- portfolio-agent:start -->
 ## Recent portfolio projects
 
+- [automata-lens](https://github.com/DanielCuevas1208/automata-lens) — A Racket desktop program that turns a regular expression into a finite automaton. It shows the states and animates each match step.
 - [gridmind](https://github.com/DanielCuevas1208/gridmind) `Clojure` — A Clojure library that learns to solve grid worlds. It uses tabular Q-learning and SARSA.
 - [codon-atlas](https://github.com/DanielCuevas1208/codon-atlas) `Nim` — A Nim library that reads DNA and RNA sequence files and reports composition statistics. It computes GC content, k-mer counts, and codon usage tables.
 - [pocket-habit-engine](https://github.com/DanielCuevas1208/pocket-habit-engine) `Dart` — A calm offline habit experiment app that helps a user test routines without accounts, streak pressure, notifications, or remote analytics.
@@ -81,5 +82,4 @@ CAD review, design memory, and agent-assisted design workflows.
 - [rota-forge](https://github.com/DanielCuevas1208/rota-forge) `Scala` — A staff rostering solver written in Scala. It reads staff, shifts, and rules from CSV files. It builds a schedule with simulated annealing and scores hard and soft constraints. It writes the final roster as CSV and as a printable HTML report. A bundl
 - [specimen-press](https://github.com/DanielCuevas1208/specimen-press) `Swift` — A font inspection toolkit written in Swift. It parses TrueType binary tables, extracts glyph outlines, and reports font metrics. It renders SVG specimen sheets that show the alphabet, sample text, and metric lines. A bundled open-license font support
 - [morphoscope](https://github.com/DanielCuevas1208/morphoscope) `Prolog` — A morphological analyzer written in SWI-Prolog. Rule sets describe how word forms inflect in English and Spanish. The engine runs in two directions: it analyzes a word form into a lemma with features, and it generates all forms of a lemma. The lexico
-- [inkline-maps](https://github.com/DanielCuevas1208/inkline-maps) `Kotlin` — An offline map renderer written in Kotlin. It parses a bundled OpenStreetMap extract and applies a plain-text style sheet. It draws roads, water, buildings, and labels to PNG and SVG images. The renderer works fully offline and does not use tile serv
 <!-- portfolio-agent:end -->

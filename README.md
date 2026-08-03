@@ -76,6 +76,7 @@ CAD review, design memory, and agent-assisted design workflows.
 <!-- portfolio-agent:start -->
 ## Showcase projects
 
+- [signal-garden](https://github.com/DanielCuevas1208/signal-garden) `Elixir` - An interactive distributed-systems simulator that makes message delay, partitions, retries, and eventual convergence visible and reproducible.
 - [cinderstore](https://github.com/DanielCuevas1208/cinderstore) `Crystal` - An embeddable key and value store built on a log structured merge tree. It keeps a write ahead log and merges data files in the background.
 - [agent-trace-workbench](https://github.com/DanielCuevas1208/agent-trace-workbench) `Python` - A local workbench for recording, replaying, comparing, and inspecting tool-using agent runs without sending trace data to a hosted service.
 - [dot-matrix-deck](https://github.com/DanielCuevas1208/dot-matrix-deck) `Zig` - A Game Boy emulator written in Zig. It emulates the SM83 CPU, the memory bus, the timers, and the pixel pipeline. A software renderer shows the screen in an SDL2 window. A headless mode runs public test ROMs so that automated tests can check the emul
@@ -86,7 +87,6 @@ CAD review, design memory, and agent-assisted design workflows.
 - [sprout-lang](https://github.com/DanielCuevas1208/sprout-lang) `Go` - A small programming language with friendly diagnostics, a documented grammar, and an implementation that can grow from an interpreter into a bytecode virtual machine.
 - [local-first-job-queue](https://github.com/DanielCuevas1208/local-first-job-queue) `Go` - A small durable background job queue demonstrating leases, retries, idempotency keys, crash recovery, and an inspectable append-only event log.
 - [tumble-lab](https://github.com/DanielCuevas1208/tumble-lab) `Lua` - A 2D rigid-body physics engine written in Lua from first principles. The engine solves circle and polygon collisions with an impulse solver. Interactive sandbox scenes run in the LOVE framework. A deterministic headless mode runs the same engine with
-- [signal-garden](https://github.com/DanielCuevas1208/signal-garden) `Elixir` - An interactive distributed-systems simulator that makes message delay, partitions, retries, and eventual convergence visible and reproducible.
 - [latch](https://github.com/DanielCuevas1208/latch) `Erlang` - An Erlang library for secure messages between two peers. It uses a ratchet scheme so each message gets a fresh key.
 - [driftlog](https://github.com/DanielCuevas1208/driftlog) `Gleam` - A Gleam library of conflict-free replicated data types. Two peers edit the same data offline and then merge without conflicts.
 - [stonehue](https://github.com/DanielCuevas1208/stonehue) `Common Lisp` - A Go board game engine for small boards. It plays with Monte Carlo tree search and speaks the Go Text Protocol.

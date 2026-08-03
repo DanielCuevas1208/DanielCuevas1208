@@ -74,8 +74,8 @@ CAD review, design memory, and agent-assisted design workflows.
 <!-- portfolio-agent:start -->
 ## Recent portfolio projects
 
-- [driftlog](https://github.com/DanielCuevas1208/driftlog) **Showcase** — A Gleam library of conflict-free replicated data types. Two peers edit the same data offline and then merge without conflicts.
 - [dungeonwright](https://github.com/DanielCuevas1208/dungeonwright) `GDScript` **Showcase** — A playable dungeon crawler that builds a new map each run. You explore rooms, corridors, and locked areas that the generator creates.
+- [driftlog](https://github.com/DanielCuevas1208/driftlog) `Gleam` **Showcase** — A Gleam library of conflict-free replicated data types. Two peers edit the same data offline and then merge without conflicts.
 - [cinderstore](https://github.com/DanielCuevas1208/cinderstore) `Crystal` **Showcase** — An embeddable key and value store built on a log structured merge tree. It keeps a write ahead log and merges data files in the background.
 - [reed-solomon-workbench](https://github.com/DanielCuevas1208/reed-solomon-workbench) `Ada` — An Ada library that adds Reed-Solomon error correction to byte blocks. It shows how the codes recover data after damage.
 - [stonehue](https://github.com/DanielCuevas1208/stonehue) `Common Lisp` **Showcase** — A Go board game engine for small boards. It plays with Monte Carlo tree search and speaks the Go Text Protocol.

@@ -74,9 +74,9 @@ CAD review, design memory, and agent-assisted design workflows.
 <!-- portfolio-agent:start -->
 ## Recent portfolio projects
 
-- [paper-orrery](https://github.com/DanielCuevas1208/paper-orrery) — An astronomy calculator written in F#. It computes the positions of the planets from bundled orbital elements. It converts positions to the local horizon frame for a given date, time, and location. It renders an SVG sky chart with the visible planets
-- [patchbay-synth](https://github.com/DanielCuevas1208/patchbay-synth) `Julia` **Showcase** — An offline modular synthesizer written in Julia. A patch file declares oscillators, envelopes, filters, and effects as a signal graph. The engine renders the graph to a WAV file at any sample rate. Analysis tools plot spectrograms of the rendered audio.
 - [tonewright](https://github.com/DanielCuevas1208/tonewright) `Ruby` — A Ruby library that analyzes chords and scales. It names progressions and exports them to notation and MIDI files.
+- [paper-orrery](https://github.com/DanielCuevas1208/paper-orrery) `F#` — An astronomy calculator written in F#. It computes the positions of the planets from bundled orbital elements. It converts positions to the local horizon frame for a given date, time, and location. It renders an SVG sky chart with the visible planets
+- [patchbay-synth](https://github.com/DanielCuevas1208/patchbay-synth) `Julia` **Showcase** — An offline modular synthesizer written in Julia. A patch file declares oscillators, envelopes, filters, and effects as a signal graph. The engine renders the graph to a WAV file at any sample rate. Analysis tools plot spectrograms of the rendered audio.
 - [automata-lens](https://github.com/DanielCuevas1208/automata-lens) `Racket` — A Racket desktop program that turns a regular expression into a finite automaton. It shows the states and animates each match step.
 - [deducto](https://github.com/DanielCuevas1208/deducto) `Scheme` — A Scheme program that checks proofs in propositional logic. It uses natural deduction rules and gives feedback at each step.
 - [triweave](https://github.com/DanielCuevas1208/triweave) `Perl` — A Perl library that merges two changed versions of a text file against a common base. It marks conflicts clearly.

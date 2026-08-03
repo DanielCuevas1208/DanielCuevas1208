@@ -74,9 +74,9 @@ CAD review, design memory, and agent-assisted design workflows.
 <!-- portfolio-agent:start -->
 ## Recent portfolio projects
 
+- [tumble-lab](https://github.com/DanielCuevas1208/tumble-lab) `Lua` **Showcase** — A 2D rigid-body physics engine written in Lua from first principles. The engine solves circle and polygon collisions with an impulse solver. Interactive sandbox scenes run in the LOVE framework. A deterministic headless mode runs the same engine with
 - [hm-lens](https://github.com/DanielCuevas1208/hm-lens) `Standard ML` — A Standard ML engine that infers types for a small functional language. It shows how each type is worked out.
 - [gatework](https://github.com/DanielCuevas1208/gatework) `Haskell` **Showcase** — An event-driven digital logic simulator written in Haskell. A plain-text netlist format describes gates, D flip-flops, and clocks. The simulator runs the circuit and writes standard VCD waveform files. GTKWave and other waveform viewers can open the
-- [tumble-lab](https://github.com/DanielCuevas1208/tumble-lab) `Lua` **Showcase** — A 2D rigid-body physics engine written in Lua from first principles. The engine solves circle and polygon collisions with an impulse solver. Interactive sandbox scenes run in the LOVE framework. A deterministic headless mode runs the same engine with
 - [contagion-lab](https://github.com/DanielCuevas1208/contagion-lab) `R` — An R package that simulates how a disease spreads through a population. It compares compartment and agent based models.
 - [dot-matrix-deck](https://github.com/DanielCuevas1208/dot-matrix-deck) `Zig` **Showcase** — A Game Boy emulator written in Zig. It emulates the SM83 CPU, the memory bus, the timers, and the pixel pipeline. A software renderer shows the screen in an SDL2 window. A headless mode runs public test ROMs so that automated tests can check the emul
 - [mesa-mapper](https://github.com/DanielCuevas1208/mesa-mapper) `D` — A D library that builds convex hulls and Delaunay triangulations from point sets. It writes the result as a scalable vector image.

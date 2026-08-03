@@ -74,6 +74,7 @@ CAD review, design memory, and agent-assisted design workflows.
 <!-- portfolio-agent:start -->
 ## Recent portfolio projects
 
+- [engineering-design-assistant](https://github.com/DanielCuevas1208/engineering-design-assistant) `Dart` — A focused interface for capturing engineering requirements, checking units and constraints, and handing a structured design brief to EngineerKit tools.
 - [latch](https://github.com/DanielCuevas1208/latch) `Erlang` **Showcase** — An Erlang library for secure messages between two peers. It uses a ratchet scheme so each message gets a fresh key.
 - [engineer-mcp](https://github.com/DanielCuevas1208/engineer-mcp) `TypeScript` **Showcase** — An MCP server that gives coding agents reliable mechanical-engineering calculations, references, material data, and transparent result provenance.
 - [driftlog](https://github.com/DanielCuevas1208/driftlog) `Gleam` **Showcase** — A Gleam library of conflict-free replicated data types. Two peers edit the same data offline and then merge without conflicts.
@@ -81,5 +82,4 @@ CAD review, design memory, and agent-assisted design workflows.
 - [stonehue](https://github.com/DanielCuevas1208/stonehue) `Common Lisp` **Showcase** — A Go board game engine for small boards. It plays with Monte Carlo tree search and speaks the Go Text Protocol.
 - [cinderstore](https://github.com/DanielCuevas1208/cinderstore) `Crystal` **Showcase** — An embeddable key and value store built on a log structured merge tree. It keeps a write ahead log and merges data files in the background.
 - [dungeonwright](https://github.com/DanielCuevas1208/dungeonwright) `GDScript` **Showcase** — A playable dungeon crawler that builds a new map each run. You explore rooms, corridors, and locked areas that the generator creates.
-- [reed-solomon-workbench](https://github.com/DanielCuevas1208/reed-solomon-workbench) `Ada` — An Ada library that adds Reed-Solomon error correction to byte blocks. It shows how the codes recover data after damage.
 <!-- portfolio-agent:end -->

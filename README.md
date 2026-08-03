@@ -74,10 +74,10 @@ CAD review, design memory, and agent-assisted design workflows.
 <!-- portfolio-agent:start -->
 ## Recent portfolio projects
 
-- [dot-matrix-deck](https://github.com/DanielCuevas1208/dot-matrix-deck) **Showcase** — A Game Boy emulator written in Zig. It emulates the SM83 CPU, the memory bus, the timers, and the pixel pipeline. A software renderer shows the screen in an SDL2 window. A headless mode runs public test ROMs so that automated tests can check the emul
+- [contagion-lab](https://github.com/DanielCuevas1208/contagion-lab) `R` — An R package that simulates how a disease spreads through a population. It compares compartment and agent based models.
+- [dot-matrix-deck](https://github.com/DanielCuevas1208/dot-matrix-deck) `Zig` **Showcase** — A Game Boy emulator written in Zig. It emulates the SM83 CPU, the memory bus, the timers, and the pixel pipeline. A software renderer shows the screen in an SDL2 window. A headless mode runs public test ROMs so that automated tests can check the emul
 - [hm-lens](https://github.com/DanielCuevas1208/hm-lens) `Standard ML` — A Standard ML engine that infers types for a small functional language. It shows how each type is worked out.
 - [mesa-mapper](https://github.com/DanielCuevas1208/mesa-mapper) `D` — A D library that builds convex hulls and Delaunay triangulations from point sets. It writes the result as a scalable vector image.
-- [contagion-lab](https://github.com/DanielCuevas1208/contagion-lab) `R` — An R package that simulates how a disease spreads through a population. It compares compartment and agent based models.
 - [turtleyard](https://github.com/DanielCuevas1208/turtleyard) `StringTemplate` — A Pharo Smalltalk environment for turtle graphics. You write short scripts and watch the turtle draw at once.
 - [tonewright](https://github.com/DanielCuevas1208/tonewright) `Ruby` — A Ruby library that analyzes chords and scales. It names progressions and exports them to notation and MIDI files.
 - [paper-orrery](https://github.com/DanielCuevas1208/paper-orrery) `F#` — An astronomy calculator written in F#. It computes the positions of the planets from bundled orbital elements. It converts positions to the local horizon frame for a given date, time, and location. It renders an SVG sky chart with the visible planets

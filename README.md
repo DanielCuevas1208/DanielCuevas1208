@@ -74,9 +74,9 @@ CAD review, design memory, and agent-assisted design workflows.
 <!-- portfolio-agent:start -->
 ## Recent portfolio projects
 
+- [frame-smith](https://github.com/DanielCuevas1208/frame-smith) `Vala` — A GTK desktop program that applies filters to images. You can chain filters and see the result at once.
 - [leaflitter](https://github.com/DanielCuevas1208/leaflitter) `C` — A C library that compresses and decompresses byte streams. It uses a match finder and Huffman coding, similar to DEFLATE.
 - [harmonic-tide](https://github.com/DanielCuevas1208/harmonic-tide) `Fortran` — A Fortran library that predicts tide heights from harmonic constituents. It builds a tide table for one station and time range.
-- [frame-smith](https://github.com/DanielCuevas1208/frame-smith) `Vala` — A GTK desktop program that applies filters to images. You can chain filters and see the result at once.
 - [automata-lens](https://github.com/DanielCuevas1208/automata-lens) `Racket` — A Racket desktop program that turns a regular expression into a finite automaton. It shows the states and animates each match step.
 - [gridmind](https://github.com/DanielCuevas1208/gridmind) `Clojure` — A Clojure library that learns to solve grid worlds. It uses tabular Q-learning and SARSA.
 - [codon-atlas](https://github.com/DanielCuevas1208/codon-atlas) `Nim` — A Nim library that reads DNA and RNA sequence files and reports composition statistics. It computes GC content, k-mer counts, and codon usage tables.

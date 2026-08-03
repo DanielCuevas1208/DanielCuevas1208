@@ -74,10 +74,10 @@ CAD review, design memory, and agent-assisted design workflows.
 <!-- portfolio-agent:start -->
 ## Recent portfolio projects
 
-- [tonewright](https://github.com/DanielCuevas1208/tonewright) — A Ruby library that analyzes chords and scales. It names progressions and exports them to notation and MIDI files.
+- [patchbay-synth](https://github.com/DanielCuevas1208/patchbay-synth) `Julia` **Showcase** — An offline modular synthesizer written in Julia. A patch file declares oscillators, envelopes, filters, and effects as a signal graph. The engine renders the graph to a WAV file at any sample rate. Analysis tools plot spectrograms of the rendered audio.
+- [tonewright](https://github.com/DanielCuevas1208/tonewright) `Ruby` — A Ruby library that analyzes chords and scales. It names progressions and exports them to notation and MIDI files.
 - [automata-lens](https://github.com/DanielCuevas1208/automata-lens) `Racket` — A Racket desktop program that turns a regular expression into a finite automaton. It shows the states and animates each match step.
 - [deducto](https://github.com/DanielCuevas1208/deducto) `Scheme` — A Scheme program that checks proofs in propositional logic. It uses natural deduction rules and gives feedback at each step.
-- [patchbay-synth](https://github.com/DanielCuevas1208/patchbay-synth) `Julia` **Showcase** — An offline modular synthesizer written in Julia. A patch file declares oscillators, envelopes, filters, and effects as a signal graph. The engine renders the graph to a WAV file at any sample rate. Analysis tools plot spectrograms of the rendered aud
 - [triweave](https://github.com/DanielCuevas1208/triweave) `Perl` — A Perl library that merges two changed versions of a text file against a common base. It marks conflicts clearly.
 - [frame-smith](https://github.com/DanielCuevas1208/frame-smith) `Vala` — A GTK desktop program that applies filters to images. You can chain filters and see the result at once.
 - [leaflitter](https://github.com/DanielCuevas1208/leaflitter) `C` — A C library that compresses and decompresses byte streams. It uses a match finder and Huffman coding, similar to DEFLATE.

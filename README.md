@@ -74,6 +74,7 @@ CAD review, design memory, and agent-assisted design workflows.
 <!-- portfolio-agent:start -->
 ## Recent portfolio projects
 
+- [leaflitter](https://github.com/DanielCuevas1208/leaflitter) — A C library that compresses and decompresses byte streams. It uses a match finder and Huffman coding, similar to DEFLATE.
 - [rota-forge](https://github.com/DanielCuevas1208/rota-forge) `Scala` — A staff rostering solver written in Scala. It reads staff, shifts, and rules from CSV files. It builds a schedule with simulated annealing and scores hard and soft constraints. It writes the final roster as CSV and as a printable HTML report. A bundl
 - [codon-atlas](https://github.com/DanielCuevas1208/codon-atlas) `Nim` — A Nim library that reads DNA and RNA sequence files and reports composition statistics. It computes GC content, k-mer counts, and codon usage tables.
 - [specimen-press](https://github.com/DanielCuevas1208/specimen-press) `Swift` — A font inspection toolkit written in Swift. It parses TrueType binary tables, extracts glyph outlines, and reports font metrics. It renders SVG specimen sheets that show the alphabet, sample text, and metric lines. A bundled open-license font support
@@ -81,5 +82,4 @@ CAD review, design memory, and agent-assisted design workflows.
 - [inkline-maps](https://github.com/DanielCuevas1208/inkline-maps) `Kotlin` — An offline map renderer written in Kotlin. It parses a bundled OpenStreetMap extract and applies a plain-text style sheet. It draws roads, water, buildings, and labels to PNG and SVG images. The renderer works fully offline and does not use tile serv
 - [clausecraft](https://github.com/DanielCuevas1208/clausecraft) `OCaml` — A CDCL SAT solver written in OCaml. The solver reads standard DIMACS CNF files and applies watched literals, clause learning, and restarts. A Sudoku encoder turns puzzles into CNF as a demo. The test suite checks every reported model with an independ
 - [personal-ledger-lab](https://github.com/DanielCuevas1208/personal-ledger-lab) `C#` **Showcase** — A local-first finance tracker that imports statement files, applies transparent categorization rules, and explains every balance and spending summary.
-- [packet-forensics-lab](https://github.com/DanielCuevas1208/packet-forensics-lab) `Rust` **Showcase** — A defensive, offline network-forensics tool that explains suspicious patterns in safe packet fixtures and never performs active scanning.
 <!-- portfolio-agent:end -->

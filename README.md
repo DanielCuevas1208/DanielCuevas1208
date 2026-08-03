@@ -74,9 +74,9 @@ CAD review, design memory, and agent-assisted design workflows.
 <!-- portfolio-agent:start -->
 ## Recent portfolio projects
 
-- [contagion-lab](https://github.com/DanielCuevas1208/contagion-lab) — An R package that simulates how a disease spreads through a population. It compares compartment and agent based models.
-- [turtleyard](https://github.com/DanielCuevas1208/turtleyard) `StringTemplate` — A Pharo Smalltalk environment for turtle graphics. You write short scripts and watch the turtle draw at once.
 - [mesa-mapper](https://github.com/DanielCuevas1208/mesa-mapper) `D` — A D library that builds convex hulls and Delaunay triangulations from point sets. It writes the result as a scalable vector image.
+- [contagion-lab](https://github.com/DanielCuevas1208/contagion-lab) `R` — An R package that simulates how a disease spreads through a population. It compares compartment and agent based models.
+- [turtleyard](https://github.com/DanielCuevas1208/turtleyard) `StringTemplate` — A Pharo Smalltalk environment for turtle graphics. You write short scripts and watch the turtle draw at once.
 - [tonewright](https://github.com/DanielCuevas1208/tonewright) `Ruby` — A Ruby library that analyzes chords and scales. It names progressions and exports them to notation and MIDI files.
 - [paper-orrery](https://github.com/DanielCuevas1208/paper-orrery) `F#` — An astronomy calculator written in F#. It computes the positions of the planets from bundled orbital elements. It converts positions to the local horizon frame for a given date, time, and location. It renders an SVG sky chart with the visible planets
 - [patchbay-synth](https://github.com/DanielCuevas1208/patchbay-synth) `Julia` **Showcase** — An offline modular synthesizer written in Julia. A patch file declares oscillators, envelopes, filters, and effects as a signal graph. The engine renders the graph to a WAV file at any sample rate. Analysis tools plot spectrograms of the rendered audio.

@@ -74,6 +74,7 @@ CAD review, design memory, and agent-assisted design workflows.
 <!-- portfolio-agent:start -->
 ## Recent portfolio projects
 
+- [cinderstore](https://github.com/DanielCuevas1208/cinderstore) `Crystal` **Showcase** — An embeddable key and value store built on a log structured merge tree. It keeps a write ahead log and merges data files in the background.
 - [agent-trace-workbench](https://github.com/DanielCuevas1208/agent-trace-workbench) `Python` **Showcase** — A local workbench for recording, replaying, comparing, and inspecting tool-using agent runs without sending trace data to a hosted service.
 - [engineer-mcp](https://github.com/DanielCuevas1208/engineer-mcp) `TypeScript` **Showcase** — An MCP server that gives coding agents reliable mechanical-engineering calculations, references, material data, and transparent result provenance.
 - [sprout-lang](https://github.com/DanielCuevas1208/sprout-lang) `Go` **Showcase** — A small programming language with friendly diagnostics, a documented grammar, and an implementation that can grow from an interpreter into a bytecode virtual machine.
@@ -81,5 +82,4 @@ CAD review, design memory, and agent-assisted design workflows.
 - [latch](https://github.com/DanielCuevas1208/latch) `Erlang` **Showcase** — An Erlang library for secure messages between two peers. It uses a ratchet scheme so each message gets a fresh key.
 - [driftlog](https://github.com/DanielCuevas1208/driftlog) `Gleam` **Showcase** — A Gleam library of conflict-free replicated data types. Two peers edit the same data offline and then merge without conflicts.
 - [dot-matrix-deck](https://github.com/DanielCuevas1208/dot-matrix-deck) `Zig` **Showcase** — A Game Boy emulator written in Zig. It emulates the SM83 CPU, the memory bus, the timers, and the pixel pipeline. A software renderer shows the screen in an SDL2 window. A headless mode runs public test ROMs so that automated tests can check the emul
-- [stonehue](https://github.com/DanielCuevas1208/stonehue) `Common Lisp` **Showcase** — A Go board game engine for small boards. It plays with Monte Carlo tree search and speaks the Go Text Protocol.
 <!-- portfolio-agent:end -->

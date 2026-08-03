@@ -74,7 +74,7 @@ CAD review, design memory, and agent-assisted design workflows.
 <!-- portfolio-agent:start -->
 ## Recent portfolio projects
 
-- [rota-forge](https://github.com/DanielCuevas1208/rota-forge) — A staff rostering solver written in Scala. It reads staff, shifts, and rules from CSV files. It builds a schedule with simulated annealing and scores hard and soft constraints. It writes the final roster as CSV and as a printable HTML report. A bundl
+- [rota-forge](https://github.com/DanielCuevas1208/rota-forge) `Scala` — A staff rostering solver written in Scala. It reads staff, shifts, and rules from CSV files. It builds a schedule with simulated annealing and scores hard and soft constraints. It writes the final roster as CSV and as a printable HTML report. A bundl
 - [codon-atlas](https://github.com/DanielCuevas1208/codon-atlas) `Nim` — A Nim library that reads DNA and RNA sequence files and reports composition statistics. It computes GC content, k-mer counts, and codon usage tables.
 - [specimen-press](https://github.com/DanielCuevas1208/specimen-press) `Swift` — A font inspection toolkit written in Swift. It parses TrueType binary tables, extracts glyph outlines, and reports font metrics. It renders SVG specimen sheets that show the alphabet, sample text, and metric lines. A bundled open-license font support
 - [morphoscope](https://github.com/DanielCuevas1208/morphoscope) `Prolog` — A morphological analyzer written in SWI-Prolog. Rule sets describe how word forms inflect in English and Spanish. The engine runs in two directions: it analyzes a word form into a lemma with features, and it generates all forms of a lemma. The lexico

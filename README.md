@@ -74,6 +74,7 @@ CAD review, design memory, and agent-assisted design workflows.
 <!-- portfolio-agent:start -->
 ## Recent portfolio projects
 
+- [tonewright](https://github.com/DanielCuevas1208/tonewright) — A Ruby library that analyzes chords and scales. It names progressions and exports them to notation and MIDI files.
 - [automata-lens](https://github.com/DanielCuevas1208/automata-lens) `Racket` — A Racket desktop program that turns a regular expression into a finite automaton. It shows the states and animates each match step.
 - [deducto](https://github.com/DanielCuevas1208/deducto) `Scheme` — A Scheme program that checks proofs in propositional logic. It uses natural deduction rules and gives feedback at each step.
 - [patchbay-synth](https://github.com/DanielCuevas1208/patchbay-synth) `Julia` **Showcase** — An offline modular synthesizer written in Julia. A patch file declares oscillators, envelopes, filters, and effects as a signal graph. The engine renders the graph to a WAV file at any sample rate. Analysis tools plot spectrograms of the rendered aud
@@ -81,5 +82,4 @@ CAD review, design memory, and agent-assisted design workflows.
 - [frame-smith](https://github.com/DanielCuevas1208/frame-smith) `Vala` — A GTK desktop program that applies filters to images. You can chain filters and see the result at once.
 - [leaflitter](https://github.com/DanielCuevas1208/leaflitter) `C` — A C library that compresses and decompresses byte streams. It uses a match finder and Huffman coding, similar to DEFLATE.
 - [harmonic-tide](https://github.com/DanielCuevas1208/harmonic-tide) `Fortran` — A Fortran library that predicts tide heights from harmonic constituents. It builds a tide table for one station and time range.
-- [gridmind](https://github.com/DanielCuevas1208/gridmind) `Clojure` — A Clojure library that learns to solve grid worlds. It uses tabular Q-learning and SARSA.
 <!-- portfolio-agent:end -->

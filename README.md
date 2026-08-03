@@ -74,12 +74,12 @@ CAD review, design memory, and agent-assisted design workflows.
 <!-- portfolio-agent:start -->
 ## Recent portfolio projects
 
-- [triweave](https://github.com/DanielCuevas1208/triweave) — A Perl library that merges two changed versions of a text file against a common base. It marks conflicts clearly.
+- [patchbay-synth](https://github.com/DanielCuevas1208/patchbay-synth) **Showcase** — An offline modular synthesizer written in Julia. A patch file declares oscillators, envelopes, filters, and effects as a signal graph. The engine renders the graph to a WAV file at any sample rate. Analysis tools plot spectrograms of the rendered aud
+- [triweave](https://github.com/DanielCuevas1208/triweave) `Perl` — A Perl library that merges two changed versions of a text file against a common base. It marks conflicts clearly.
 - [frame-smith](https://github.com/DanielCuevas1208/frame-smith) `Vala` — A GTK desktop program that applies filters to images. You can chain filters and see the result at once.
 - [leaflitter](https://github.com/DanielCuevas1208/leaflitter) `C` — A C library that compresses and decompresses byte streams. It uses a match finder and Huffman coding, similar to DEFLATE.
 - [harmonic-tide](https://github.com/DanielCuevas1208/harmonic-tide) `Fortran` — A Fortran library that predicts tide heights from harmonic constituents. It builds a tide table for one station and time range.
 - [automata-lens](https://github.com/DanielCuevas1208/automata-lens) `Racket` — A Racket desktop program that turns a regular expression into a finite automaton. It shows the states and animates each match step.
 - [gridmind](https://github.com/DanielCuevas1208/gridmind) `Clojure` — A Clojure library that learns to solve grid worlds. It uses tabular Q-learning and SARSA.
 - [codon-atlas](https://github.com/DanielCuevas1208/codon-atlas) `Nim` — A Nim library that reads DNA and RNA sequence files and reports composition statistics. It computes GC content, k-mer counts, and codon usage tables.
-- [pocket-habit-engine](https://github.com/DanielCuevas1208/pocket-habit-engine) `Dart` — A calm offline habit experiment app that helps a user test routines without accounts, streak pressure, notifications, or remote analytics.
 <!-- portfolio-agent:end -->

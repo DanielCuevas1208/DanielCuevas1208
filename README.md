@@ -40,6 +40,26 @@ headless test mode.
 An embeddable Crystal key-value store built on a log-structured merge tree. It
 uses a write-ahead log and background data-file merges.
 
+### [Sprout Lang](https://github.com/DanielCuevas1208/sprout-lang)
+
+A small Go programming language with a documented grammar and friendly
+diagnostics.
+
+### [Gatework](https://github.com/DanielCuevas1208/gatework)
+
+An event-driven Haskell digital logic simulator with plain-text netlists and
+VCD waveform output.
+
+### [Tumble Lab](https://github.com/DanielCuevas1208/tumble-lab)
+
+A Lua rigid-body simulation lab with fixed steps, collision handling, and a
+deterministic headless runner.
+
+### [Packet Forensics Lab](https://github.com/DanielCuevas1208/packet-forensics-lab)
+
+A Rust tool that explains suspicious patterns in safe packet fixtures without
+active scanning.
+
 ## Supporting projects
 
 - [Local-First Job Queue](https://github.com/DanielCuevas1208/local-first-job-queue)

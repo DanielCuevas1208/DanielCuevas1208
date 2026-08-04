@@ -85,6 +85,7 @@ I also plan to build EngineerKit. This tool family will support engineering calc
 
 ## Supporting projects
 
+- [gtfs-accessibility-auditor](https://github.com/DanielCuevas1208/gtfs-accessibility-auditor) `TypeScript` - A production-quality TypeScript CLI that audits public-transit GTFS feeds for wheelchair-accessibility coverage, data quality, and actionable route-level gaps.
 - [tonewright](https://github.com/DanielCuevas1208/tonewright) `Ruby` - A Ruby library that analyzes chords and scales. It names progressions and exports them to notation and MIDI files.
 - [reed-solomon-workbench](https://github.com/DanielCuevas1208/reed-solomon-workbench) `Ada` - An Ada library that adds Reed-Solomon error correction to byte blocks. It shows how the codes recover data after damage.
 - [mesa-mapper](https://github.com/DanielCuevas1208/mesa-mapper) `D` - A D library that builds convex hulls and Delaunay triangulations from point sets. It writes the result as a scalable vector image.
@@ -109,6 +110,5 @@ I also plan to build EngineerKit. This tool family will support engineering calc
 - [clausecraft](https://github.com/DanielCuevas1208/clausecraft) `OCaml` - A CDCL SAT solver written in OCaml. The solver reads standard DIMACS CNF files and applies watched literals, clause learning, and restarts. A Sudoku encoder turns puzzles into CNF as a demo. The test suite checks every reported model with an independ
 - [query-plan-playground](https://github.com/DanielCuevas1208/query-plan-playground) `Java` - A database learning tool that turns query plans into interactive trees and explains common scan, join, sort, and index decisions.
 - [tiny-anomaly-lab](https://github.com/DanielCuevas1208/tiny-anomaly-lab) `Python` - An explainable anomaly-detection workbench for small time-series datasets with reproducible experiments and a browser-based report.
-- [gtfs-accessibility-auditor](https://github.com/DanielCuevas1208/gtfs-accessibility-auditor) `TypeScript` - A production-quality TypeScript CLI that audits public-transit GTFS feeds for wheelchair-accessibility coverage, data quality, and actionable route-level gaps.
 - [web-a11y-regression-guard](https://github.com/DanielCuevas1208/web-a11y-regression-guard) `TypeScript` - A CI-oriented tool that compares accessibility scans between two builds and blocks only newly introduced, evidence-backed regressions.
 <!-- portfolio-agent:end -->

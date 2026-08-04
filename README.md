@@ -85,6 +85,7 @@ I also plan to build EngineerKit. This tool family will support engineering calc
 
 ## Supporting projects
 
+- [paper-orrery](https://github.com/DanielCuevas1208/paper-orrery) `F#` - An astronomy calculator written in F#. It computes the positions of the planets from bundled orbital elements. It converts positions to the local horizon frame for a given date, time, and location. It renders an SVG sky chart with the visible planets
 - [gtfs-accessibility-auditor](https://github.com/DanielCuevas1208/gtfs-accessibility-auditor) `TypeScript` - A production-quality TypeScript CLI that audits public-transit GTFS feeds for wheelchair-accessibility coverage, data quality, and actionable route-level gaps.
 - [tonewright](https://github.com/DanielCuevas1208/tonewright) `Ruby` - A Ruby library that analyzes chords and scales. It names progressions and exports them to notation and MIDI files.
 - [reed-solomon-workbench](https://github.com/DanielCuevas1208/reed-solomon-workbench) `Ada` - An Ada library that adds Reed-Solomon error correction to byte blocks. It shows how the codes recover data after damage.
@@ -95,7 +96,6 @@ I also plan to build EngineerKit. This tool family will support engineering calc
 - [engineering-design-assistant](https://github.com/DanielCuevas1208/engineering-design-assistant) `Dart` - A focused interface for capturing engineering requirements, checking units and constraints, and handing a structured design brief to EngineerKit tools.
 - [leaflitter](https://github.com/DanielCuevas1208/leaflitter) `C` - A C library that compresses and decompresses byte streams. It uses a match finder and Huffman coding, similar to DEFLATE.
 - [turtleyard](https://github.com/DanielCuevas1208/turtleyard) `StringTemplate` - A Pharo Smalltalk environment for turtle graphics. You write short scripts and watch the turtle draw at once.
-- [paper-orrery](https://github.com/DanielCuevas1208/paper-orrery) `F#` - An astronomy calculator written in F#. It computes the positions of the planets from bundled orbital elements. It converts positions to the local horizon frame for a given date, time, and location. It renders an SVG sky chart with the visible planets
 - [automata-lens](https://github.com/DanielCuevas1208/automata-lens) `Racket` - A Racket desktop program that turns a regular expression into a finite automaton. It shows the states and animates each match step.
 - [deducto](https://github.com/DanielCuevas1208/deducto) `Scheme` - A Scheme program that checks proofs in propositional logic. It uses natural deduction rules and gives feedback at each step.
 - [triweave](https://github.com/DanielCuevas1208/triweave) `Perl` - A Perl library that merges two changed versions of a text file against a common base. It marks conflicts clearly.

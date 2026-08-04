@@ -64,6 +64,7 @@ I also plan to build EngineerKit. This tool family will support engineering calc
 <!-- portfolio-agent:start -->
 ## Showcase projects
 
+- [agent-trace-workbench](https://github.com/DanielCuevas1208/agent-trace-workbench) `Python` - A local workbench for recording, replaying, comparing, and inspecting tool-using agent runs without sending trace data to a hosted service.
 - [sprout-lang](https://github.com/DanielCuevas1208/sprout-lang) `Go` - A small programming language with friendly diagnostics, a documented grammar, and an implementation that can grow from an interpreter into a bytecode virtual machine.
 - [cinderstore](https://github.com/DanielCuevas1208/cinderstore) `Crystal` - An embeddable key and value store built on a log structured merge tree. It keeps a write ahead log and merges data files in the background.
 - [engineer-profile](https://github.com/DanielCuevas1208/engineer-profile) `TypeScript` - A public self-maintaining engineering portfolio that turns repository activity into accurate documentation, screenshots, changelogs, metrics, and publishing drafts.
@@ -74,7 +75,6 @@ I also plan to build EngineerKit. This tool family will support engineering calc
 - [dot-matrix-deck](https://github.com/DanielCuevas1208/dot-matrix-deck) `Zig` - A Game Boy emulator written in Zig. It emulates the SM83 CPU, the memory bus, the timers, and the pixel pipeline. A software renderer shows the screen in an SDL2 window. A headless mode runs public test ROMs so that automated tests can check the emul
 - [stonehue](https://github.com/DanielCuevas1208/stonehue) `Common Lisp` - A Go board game engine for small boards. It plays with Monte Carlo tree search and speaks the Go Text Protocol.
 - [driftlog](https://github.com/DanielCuevas1208/driftlog) `Gleam` - A Gleam library of conflict-free replicated data types. Two peers edit the same data offline and then merge without conflicts.
-- [agent-trace-workbench](https://github.com/DanielCuevas1208/agent-trace-workbench) `Python` - A local workbench for recording, replaying, comparing, and inspecting tool-using agent runs without sending trace data to a hosted service.
 - [local-first-job-queue](https://github.com/DanielCuevas1208/local-first-job-queue) `Go` - A small durable background job queue demonstrating leases, retries, idempotency keys, crash recovery, and an inspectable append-only event log.
 - [tumble-lab](https://github.com/DanielCuevas1208/tumble-lab) `Lua` - A 2D rigid-body physics engine written in Lua from first principles. The engine solves circle and polygon collisions with an impulse solver. Interactive sandbox scenes run in the LOVE framework. A deterministic headless mode runs the same engine with
 - [personal-ledger-lab](https://github.com/DanielCuevas1208/personal-ledger-lab) `C#` - A local-first finance tracker that imports statement files, applies transparent categorization rules, and explains every balance and spending summary.

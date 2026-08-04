@@ -64,6 +64,7 @@ I also plan to build EngineerKit. This tool family will support engineering calc
 <!-- portfolio-agent:start -->
 ## Showcase projects
 
+- [dungeonwright](https://github.com/DanielCuevas1208/dungeonwright) `GDScript` - A playable dungeon crawler that builds a new map each run. You explore rooms, corridors, and locked areas that the generator creates.
 - [engineer-mcp](https://github.com/DanielCuevas1208/engineer-mcp) `TypeScript` - An MCP server that gives coding agents reliable mechanical-engineering calculations, references, material data, and transparent result provenance.
 - [signal-garden](https://github.com/DanielCuevas1208/signal-garden) `Elixir` - An interactive distributed-systems simulator that makes message delay, partitions, retries, and eventual convergence visible and reproducible.
 - [gatework](https://github.com/DanielCuevas1208/gatework) `Haskell` - An event-driven digital logic simulator written in Haskell. A plain-text netlist format describes gates, D flip-flops, and clocks. The simulator runs the circuit and writes standard VCD waveform files. GTKWave and other waveform viewers can open the
@@ -76,7 +77,6 @@ I also plan to build EngineerKit. This tool family will support engineering calc
 - [tumble-lab](https://github.com/DanielCuevas1208/tumble-lab) `Lua` - A 2D rigid-body physics engine written in Lua from first principles. The engine solves circle and polygon collisions with an impulse solver. Interactive sandbox scenes run in the LOVE framework. A deterministic headless mode runs the same engine with
 - [engineer-profile](https://github.com/DanielCuevas1208/engineer-profile) `TypeScript` - A public self-maintaining engineering portfolio that turns repository activity into accurate documentation, screenshots, changelogs, metrics, and publishing drafts.
 - [sprout-lang](https://github.com/DanielCuevas1208/sprout-lang) `Go` - A small programming language with friendly diagnostics, a documented grammar, and an implementation that can grow from an interpreter into a bytecode virtual machine.
-- [dungeonwright](https://github.com/DanielCuevas1208/dungeonwright) `GDScript` - A playable dungeon crawler that builds a new map each run. You explore rooms, corridors, and locked areas that the generator creates.
 - [personal-ledger-lab](https://github.com/DanielCuevas1208/personal-ledger-lab) `C#` - A local-first finance tracker that imports statement files, applies transparent categorization rules, and explains every balance and spending summary.
 - [packet-forensics-lab](https://github.com/DanielCuevas1208/packet-forensics-lab) `Rust` - A defensive, offline network-forensics tool that explains suspicious patterns in safe packet fixtures and never performs active scanning.
 - [latch](https://github.com/DanielCuevas1208/latch) `Erlang` - An Erlang library for secure messages between two peers. It uses a ratchet scheme so each message gets a fresh key.

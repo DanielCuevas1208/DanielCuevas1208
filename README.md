@@ -64,6 +64,7 @@ I also plan to build EngineerKit. This tool family will support engineering calc
 <!-- portfolio-agent:start -->
 ## Showcase projects
 
+- [shader-sketchbook](https://github.com/DanielCuevas1208/shader-sketchbook) `C++` - A compact graphics playground for learning shader techniques through live examples, small experiments, and visual regression captures.
 - [dungeonwright](https://github.com/DanielCuevas1208/dungeonwright) `GDScript` - A playable dungeon crawler that builds a new map each run. You explore rooms, corridors, and locked areas that the generator creates.
 - [signal-garden](https://github.com/DanielCuevas1208/signal-garden) `Elixir` - An interactive distributed-systems simulator that makes message delay, partitions, retries, and eventual convergence visible and reproducible.
 - [engineer-mcp](https://github.com/DanielCuevas1208/engineer-mcp) `TypeScript` - An MCP server that gives coding agents reliable mechanical-engineering calculations, references, material data, and transparent result provenance.
@@ -81,7 +82,6 @@ I also plan to build EngineerKit. This tool family will support engineering calc
 - [packet-forensics-lab](https://github.com/DanielCuevas1208/packet-forensics-lab) `Rust` - A defensive, offline network-forensics tool that explains suspicious patterns in safe packet fixtures and never performs active scanning.
 - [latch](https://github.com/DanielCuevas1208/latch) `Erlang` - An Erlang library for secure messages between two peers. It uses a ratchet scheme so each message gets a fresh key.
 - [patchbay-synth](https://github.com/DanielCuevas1208/patchbay-synth) `Julia` - An offline modular synthesizer written in Julia. A patch file declares oscillators, envelopes, filters, and effects as a signal graph. The engine renders the graph to a WAV file at any sample rate. Analysis tools plot spectrograms of the rendered audio.
-- [shader-sketchbook](https://github.com/DanielCuevas1208/shader-sketchbook) `C++` - A compact graphics playground for learning shader techniques through live examples, small experiments, and visual regression captures.
 
 ## Supporting projects
 

@@ -64,6 +64,7 @@ I also plan to build EngineerKit. This tool family will support engineering calc
 <!-- portfolio-agent:start -->
 ## Showcase projects
 
+- [engineer-profile](https://github.com/DanielCuevas1208/engineer-profile) `TypeScript` - A public self-maintaining engineering portfolio that turns repository activity into accurate documentation, screenshots, changelogs, metrics, and publishing drafts.
 - [patchbay-synth](https://github.com/DanielCuevas1208/patchbay-synth) `Julia` - An offline modular synthesizer written in Julia. A patch file declares oscillators, envelopes, filters, and effects as a signal graph. The engine renders the graph to a WAV file at any sample rate. Analysis tools plot spectrograms of the rendered audio.
 - [latch](https://github.com/DanielCuevas1208/latch) `Erlang` - An Erlang library for secure messages between two peers. It uses a ratchet scheme so each message gets a fresh key.
 - [shader-sketchbook](https://github.com/DanielCuevas1208/shader-sketchbook) `C++` - A compact graphics playground for learning shader techniques through live examples, small experiments, and visual regression captures.
@@ -76,7 +77,6 @@ I also plan to build EngineerKit. This tool family will support engineering calc
 - [agent-trace-workbench](https://github.com/DanielCuevas1208/agent-trace-workbench) `Python` - A local workbench for recording, replaying, comparing, and inspecting tool-using agent runs without sending trace data to a hosted service.
 - [sprout-lang](https://github.com/DanielCuevas1208/sprout-lang) `Go` - A small programming language with friendly diagnostics, a documented grammar, and an implementation that can grow from an interpreter into a bytecode virtual machine.
 - [cinderstore](https://github.com/DanielCuevas1208/cinderstore) `Crystal` - An embeddable key and value store built on a log structured merge tree. It keeps a write ahead log and merges data files in the background.
-- [engineer-profile](https://github.com/DanielCuevas1208/engineer-profile) `TypeScript` - A public self-maintaining engineering portfolio that turns repository activity into accurate documentation, screenshots, changelogs, metrics, and publishing drafts.
 - [stonehue](https://github.com/DanielCuevas1208/stonehue) `Common Lisp` - A Go board game engine for small boards. It plays with Monte Carlo tree search and speaks the Go Text Protocol.
 - [driftlog](https://github.com/DanielCuevas1208/driftlog) `Gleam` - A Gleam library of conflict-free replicated data types. Two peers edit the same data offline and then merge without conflicts.
 - [tumble-lab](https://github.com/DanielCuevas1208/tumble-lab) `Lua` - A 2D rigid-body physics engine written in Lua from first principles. The engine solves circle and polygon collisions with an impulse solver. Interactive sandbox scenes run in the LOVE framework. A deterministic headless mode runs the same engine with

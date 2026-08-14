@@ -64,6 +64,7 @@ I also plan to build EngineerKit. This tool family will support engineering calc
 <!-- portfolio-agent:start -->
 ## Showcase projects
 
+- [personal-ledger-lab](https://github.com/DanielCuevas1208/personal-ledger-lab) `C#` - A local-first finance tracker that imports statement files, applies transparent categorization rules, and explains every balance and spending summary.
 - [packet-forensics-lab](https://github.com/DanielCuevas1208/packet-forensics-lab) `Rust` - A defensive, offline network-forensics tool that explains suspicious patterns in safe packet fixtures and never performs active scanning.
 - [agent-trace-workbench](https://github.com/DanielCuevas1208/agent-trace-workbench) `Python` - A local workbench for recording, replaying, comparing, and inspecting tool-using agent runs without sending trace data to a hosted service.
 - [local-first-job-queue](https://github.com/DanielCuevas1208/local-first-job-queue) `Go` - A small durable background job queue demonstrating leases, retries, idempotency keys, crash recovery, and an inspectable append-only event log.
@@ -81,7 +82,6 @@ I also plan to build EngineerKit. This tool family will support engineering calc
 - [stonehue](https://github.com/DanielCuevas1208/stonehue) `Common Lisp` - A Go board game engine for small boards. It plays with Monte Carlo tree search and speaks the Go Text Protocol.
 - [driftlog](https://github.com/DanielCuevas1208/driftlog) `Gleam` - A Gleam library of conflict-free replicated data types. Two peers edit the same data offline and then merge without conflicts.
 - [tumble-lab](https://github.com/DanielCuevas1208/tumble-lab) `Lua` - A 2D rigid-body physics engine written in Lua from first principles. The engine solves circle and polygon collisions with an impulse solver. Interactive sandbox scenes run in the LOVE framework. A deterministic headless mode runs the same engine with
-- [personal-ledger-lab](https://github.com/DanielCuevas1208/personal-ledger-lab) `C#` - A local-first finance tracker that imports statement files, applies transparent categorization rules, and explains every balance and spending summary.
 
 ## Supporting projects
 

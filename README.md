@@ -64,6 +64,7 @@ I also plan to build EngineerKit. This tool family will support engineering calc
 <!-- portfolio-agent:start -->
 ## Showcase projects
 
+- [tumble-lab](https://github.com/DanielCuevas1208/tumble-lab) `Lua` - A 2D rigid-body physics engine written in Lua from first principles. The engine solves circle and polygon collisions with an impulse solver. Interactive sandbox scenes run in the LOVE framework. A deterministic headless mode runs the same engine with
 - [engineer-profile](https://github.com/DanielCuevas1208/engineer-profile) `TypeScript` - A public self-maintaining engineering portfolio that turns repository activity into accurate documentation, screenshots, changelogs, metrics, and publishing drafts.
 - [dungeonwright](https://github.com/DanielCuevas1208/dungeonwright) `GDScript` - A playable dungeon crawler that builds a new map each run. You explore rooms, corridors, and locked areas that the generator creates.
 - [gatework](https://github.com/DanielCuevas1208/gatework) `Haskell` - An event-driven digital logic simulator written in Haskell. A plain-text netlist format describes gates, D flip-flops, and clocks. The simulator runs the circuit and writes standard VCD waveform files. GTKWave and other waveform viewers can open the
@@ -81,7 +82,6 @@ I also plan to build EngineerKit. This tool family will support engineering calc
 - [shader-sketchbook](https://github.com/DanielCuevas1208/shader-sketchbook) `C++` - A compact graphics playground for learning shader techniques through live examples, small experiments, and visual regression captures.
 - [stonehue](https://github.com/DanielCuevas1208/stonehue) `Common Lisp` - A Go board game engine for small boards. It plays with Monte Carlo tree search and speaks the Go Text Protocol.
 - [driftlog](https://github.com/DanielCuevas1208/driftlog) `Gleam` - A Gleam library of conflict-free replicated data types. Two peers edit the same data offline and then merge without conflicts.
-- [tumble-lab](https://github.com/DanielCuevas1208/tumble-lab) `Lua` - A 2D rigid-body physics engine written in Lua from first principles. The engine solves circle and polygon collisions with an impulse solver. Interactive sandbox scenes run in the LOVE framework. A deterministic headless mode runs the same engine with
 
 ## Supporting projects
 

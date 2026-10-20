@@ -64,8 +64,8 @@ I also plan to build EngineerKit. This tool family will support engineering calc
 <!-- portfolio-agent:start -->
 ## Showcase projects
 
-- [agent-trace-workbench](https://github.com/DanielCuevas1208/agent-trace-workbench) `Python` - A local workbench for recording, replaying, comparing, and inspecting tool-using agent runs without sending trace data to a hosted service.
 - [personal-ledger-lab](https://github.com/DanielCuevas1208/personal-ledger-lab) `C#` - A local-first finance tracker that imports statement files, applies transparent categorization rules, and explains every balance and spending summary.
+- [agent-trace-workbench](https://github.com/DanielCuevas1208/agent-trace-workbench) `Python` - A local workbench for recording, replaying, comparing, and inspecting tool-using agent runs without sending trace data to a hosted service.
 - [sprout-lang](https://github.com/DanielCuevas1208/sprout-lang) `Go` - A small programming language with friendly diagnostics, a documented grammar, and an implementation that can grow from an interpreter into a bytecode virtual machine.
 - [engineer-mcp](https://github.com/DanielCuevas1208/engineer-mcp) `TypeScript` - An MCP server that gives coding agents reliable mechanical-engineering calculations, references, material data, and transparent result provenance.
 - [cinderstore](https://github.com/DanielCuevas1208/cinderstore) `Crystal` - An embeddable key and value store built on a log structured merge tree. It keeps a write ahead log and merges data files in the background.

@@ -64,6 +64,7 @@ I also plan to build EngineerKit. This tool family will support engineering calc
 <!-- portfolio-agent:start -->
 ## Showcase projects
 
+- [cinderstore](https://github.com/DanielCuevas1208/cinderstore) `Crystal` - An embeddable key and value store built on a log structured merge tree. It keeps a write ahead log and merges data files in the background.
 - [agent-trace-workbench](https://github.com/DanielCuevas1208/agent-trace-workbench) `Python` - A local workbench for recording, replaying, comparing, and inspecting tool-using agent runs without sending trace data to a hosted service.
 - [gatework](https://github.com/DanielCuevas1208/gatework) `Haskell` - An event-driven digital logic simulator written in Haskell. A plain-text netlist format describes gates, D flip-flops, and clocks. The simulator runs the circuit and writes standard VCD waveform files. GTKWave and other waveform viewers can open the
 - [local-first-job-queue](https://github.com/DanielCuevas1208/local-first-job-queue) `Go` - A small durable background job queue demonstrating leases, retries, idempotency keys, crash recovery, and an inspectable append-only event log.
@@ -74,7 +75,6 @@ I also plan to build EngineerKit. This tool family will support engineering calc
 - [dungeonwright](https://github.com/DanielCuevas1208/dungeonwright) `GDScript` - A playable dungeon crawler that builds a new map each run. You explore rooms, corridors, and locked areas that the generator creates.
 - [sprout-lang](https://github.com/DanielCuevas1208/sprout-lang) `Go` - A small programming language with friendly diagnostics, a documented grammar, and an implementation that can grow from an interpreter into a bytecode virtual machine.
 - [engineer-mcp](https://github.com/DanielCuevas1208/engineer-mcp) `TypeScript` - An MCP server that gives coding agents reliable mechanical-engineering calculations, references, material data, and transparent result provenance.
-- [cinderstore](https://github.com/DanielCuevas1208/cinderstore) `Crystal` - An embeddable key and value store built on a log structured merge tree. It keeps a write ahead log and merges data files in the background.
 - [shader-sketchbook](https://github.com/DanielCuevas1208/shader-sketchbook) `C++` - A compact graphics playground for learning shader techniques through live examples, small experiments, and visual regression captures.
 - [personal-ledger-lab](https://github.com/DanielCuevas1208/personal-ledger-lab) `C#` - A local-first finance tracker that imports statement files, applies transparent categorization rules, and explains every balance and spending summary.
 - [patchbay-synth](https://github.com/DanielCuevas1208/patchbay-synth) `Julia` - An offline modular synthesizer written in Julia. A patch file declares oscillators, envelopes, filters, and effects as a signal graph. The engine renders the graph to a WAV file at any sample rate. Analysis tools plot spectrograms of the rendered audio.
